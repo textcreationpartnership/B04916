@@ -1,0 +1,1031 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular of the ninety five thousand acres of fenny and low surrounded grounds, lying within the great level of the fens. Which by an act of Parliament of the 29 of May, 1649. were alloted to William Earle of Bedford, his participants and adventurers for dreyning of the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 166 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04916</idno>
+            <idno type="STC">Wing P595</idno>
+            <idno type="STC">ESTC R181486</idno>
+            <idno type="EEBO-CITATION">52614819</idno>
+            <idno type="OCLC">ocm 52614819</idno>
+            <idno type="VID">176002</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176002)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2758:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular of the ninety five thousand acres of fenny and low surrounded grounds, lying within the great level of the fens. Which by an act of Parliament of the 29 of May, 1649. were alloted to William Earle of Bedford, his participants and adventurers for dreyning of the same.</title>
+                  <author>Bedford, William Russell, Duke of, 1613-1700.</author>
+               </titleStmt>
+               <extent>[2], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baddeley ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drainage --  Great Britain --  Early works to 1800.</term>
+               <term>Fens, The (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176002:1"/>
+            <pb facs="tcp:176002:1" rendition="simple:additions"/>
+            <p>A PARTICULAR OF THE Ninety five thouſand ACRES Of Fenny and low ſurrounded grounds, lying with<g ref="char:EOLhyphen"/>in the Great LEVEL of the FENS.</p>
+            <p>Which, by an ACT of PARLIAMENT of the 29 of <hi>May,</hi> 1649. were allotted to WILLIAM Earle of Bedford, HIS Participants and Adventurers for Dreyn<g ref="char:EOLhyphen"/>ing of the ſame</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baddeley</hi> within the middle Temple-gate. 1653.</p>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:176002:2"/>
+            <pb facs="tcp:176002:2"/>
+            <head>THE PRINTER TO THE Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the occaſion of Printing the particular parcels of grounds enſuing, may be the better underſtood, the Reader may pleaſe to take notice, that this great Level of the Fennes containing neer <hi>400000.</hi> Acres, was ſometimes accounted the Paradiſe of <hi>England,</hi> if we may believe Hiſtory, and the undertaking of recovering the ſame by <hi>Francis</hi> late Earle of <hi>Bedford;</hi> was a Work ſo famous and publick, that <hi>Hondius</hi> a Netherlander, who ſet forth <hi>Mercatours Geography</hi> of the World, called the New <hi>Atlas,</hi> printed at <hi>Amſterdam,</hi> in the year, <hi>1636.</hi> makes particular mention of that un<g ref="char:EOLhyphen"/>dertaking, declaring what the ſaid Fennes were in the year <hi>1200</hi> after Chriſt, and of their ſurrounding, and of the many attempts to recover them by <hi>John</hi> of <hi>Gaunt, Margaret,</hi> Counteſs of <hi>Richmond,</hi> King <hi>James,</hi> and others, and all in vaine; (which, who ſo pleaſe to take the paines,) may ſee more largely in the <hi>67, p.</hi> of that Book, where the Fennes are delineated in a Map. And becauſe good men have ſeldome any other reward for workes of publick concern<g ref="char:EOLhyphen"/>ment, then the memory of them. It is not impertinent to mention how that Noble Earle, upon the deſire of the Gentlemen of thoſe Counties, wherein thoſe Fens lay, being Commiſsioners of <hi>Sewers, 47.</hi> in number, and Lords of Man<g ref="char:EOLhyphen"/>nors, and Land-owners (within the Level,) was perſwaded to undertake that Work, and for <hi>95000<hi rend="sup">a</hi>.</hi> parcel of thoſe Fens, to dreyne the whole, and maintain them at his own charge, which will further appear to ſuch as will peruſe the Law of <hi>Sewers,</hi> made for that purpoſe at <hi>Lynne,</hi> in the <hi>6th</hi> year of the late King <hi>Charles,</hi> how vigorouſly that Noble Earle, and ſuch as after became parti<g ref="char:EOLhyphen"/>cipants with him in that undertaking, proſecuted that Work with the expence of above <hi>100000 li.</hi> is known to many who are yet the living Witneſſes of the truth therof; &amp; yet after the Work was effected, and the <hi>95000</hi> Acres, ſet forth for their recompence. In <hi>October,</hi> in the <hi>13.</hi> year of the late King, by the meanes of ſome buſie men; The very next year following, there was a com<g ref="char:EOLhyphen"/>panie of Court-Commiſsioners of <hi>Sewers,</hi> ſent to <hi>Huntington,</hi> who under pretence that the Work was not done, outed the good Earle and his participants of all the <hi>95000</hi> Acres for the late K. &amp; <hi>57000</hi> Acres more to be taken from the Country, but there went no bleſsing with that enterprize. In ſtead of making new Works to preſerve the Level, the old were ſuffered to decay, and the whole Level in great danger to be utterly loſt again, had not the late Parliament en<g ref="char:EOLhyphen"/>couraged <hi>William,</hi> now Earle of <hi>Bedford,</hi> the Son and Heir of his Noble
+<pb facs="tcp:176002:3"/> Father,) and his participants, to undertake the recovering and regaining ſo vaſt a quantity of rich grounds of ſo much advantage to this Common-wealth, for the old proportion of the <hi>95000</hi> Acres, as he that will but read the Act of Par<g ref="char:EOLhyphen"/>liament, of the <hi>29,</hi> of <hi>May, 1649.</hi> for dreyning the ſaid Level, may ſee more at large; by which meanes the Countrey ſaved the <hi>57000<hi rend="sup">a</hi>.</hi> And the Work hath been ſo effectually proſecuted, that in three yeares after the expence of <hi>300000.li.</hi>) the bleſsing of God going along with it,) the Work is compleated; and by the judgement of ten honourable and worthy Commiſsioners, appointed for that purpoſe, upon their view and hearing witneſſes upon Oath, a final Judgement given for the ſaid dreyning, and the <hi>95000</hi> Acres divided into the hands of ſeveral purchaſers, wherein there are many Families concerned, moſt of the old Participants being ruined in their eſtates by the great charge of the Work: (a fate uſually attending the firſt undertakers of publick Workes,) that there want not ſome unſatisfied with the Work, and yet thought it too much trouble to come ſo far as <hi>London</hi> to complain to the Commiſsioners ap<g ref="char:EOLhyphen"/>pointed by the Act. And therefore the Honourable Councel of State in the interval of Parliament, for the eaſe of the Countrey, named <hi>24.</hi> Commiſsion<g ref="char:EOLhyphen"/>ers of worth and integrity, reſiding upon the place, to hear the complaints of the Country; and when the buſineſſe came to a full examination before them, and it appeared what charge had been expended, and what recompence al<g ref="char:EOLhyphen"/>lowed; the moſt indifferent hearers thought the recompence ſcarce worth the undertaking, which is too apparent; for I have heard ſome of the Participants offer to ſell all their adventure Land for the bare money they are out of purſe, now the hazard is paſt; b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in regard there was ſome pretence before the ſaid Commiſsioners, that the undertakers had taken above <hi>95000</hi> Acres accor<g ref="char:EOLhyphen"/>ding to the Law of <hi>Sewers</hi> at <hi>Lyn,</hi> which the undertakers did with con<g ref="char:EOLhyphen"/>fidence deny. The Commiſsioners according to Juſtice, and for the Countreys ſatisfation, did make the aforeſaid Order, whereby all the particulars of the <hi>95000</hi> Acres, will appear.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:176002:3"/>
+            <p>A Particular of the ninety five thouſand Acres of Fenny and low-ſur<g ref="char:EOLhyphen"/>rounded grounds, lying within the great Level of the Fennes, within the Counties of <hi>Norfolk, Suffolk, Cambridge, Huntington, Northampton, Lincolne,</hi> and the Iſle of <hi>Elie,</hi> which by an Act of Parliament of <hi>May 29. 1649.</hi> were allotted to <hi>William</hi> Earle of <hi>Bedford,</hi> his Participants and Adventurers for dreyning of the ſame; and formerly ſet forth by a Law of <hi>Sewers</hi> at St. <hi>Ives</hi> in <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> in the thirteenth yeare of the late King <hi>Charles,</hi> with the par<g ref="char:EOLhyphen"/>ticular towns and places where they lie; printed by order of the Com<g ref="char:EOLhyphen"/>miſſioners, authorized by the Right Honourable the Councel of State, to heare and determine ſeveral matters and things, concerning the work of dreyning the great Level of the Fennes; which order fol<g ref="char:EOLhyphen"/>loweth, <hi>viz.</hi>
+            </p>
+            <p>At the Meeting or Seſſion by Adjournment at the ſigne of the Beare in <hi>Cambridge,</hi> upon <hi>Tueſday, Septem.</hi> the <hi>20.</hi> and there continued by ad<g ref="char:EOLhyphen"/>journment <hi>21. and 22.</hi> of the ſame moneth, before <hi>Talbot Pepis</hi> Eſquire, <hi>John Claypoole</hi> Eſquire, <hi>Robert Vinter</hi> Gent. Dr. <hi>Richard Staynes, Henry Farrer</hi> Gent. Mr. <hi>Richard Tymbes,</hi> Dr. <hi>Symcotts,</hi> Mr. <hi>Ro<g ref="char:EOLhyphen"/>bert Robſon,</hi> Mr. <hi>Edward Barker</hi> of <hi>Denver,</hi> and Mr. <hi>William Life</hi> of <hi>Downham,</hi> Commiſſioners amongſt others impowered to hear and determine ſeveral matters and things concerning the work of dreyn<g ref="char:EOLhyphen"/>ing the great Level of the Fennes, by vertue of an Order and Decla<g ref="char:EOLhyphen"/>ration of the Councel of State, <hi>June 28. 1653.</hi>
+            </p>
+            <p>It is ordered, that the Right Honourable, <hi>William</hi> Earle of <hi>Bedford,</hi> and his Participants the Adventurers for dreyning the great Level of the Fennes, do cauſe to be printed a book, ſetting forth the particular towns and places, wherein every ſeveral lot and part of the <hi>95000</hi> Acres of the ſaid Adventurers do lie, for ſatisfaction of the Countrey, that no more then <hi>95000</hi> Acres are taken by the ſaid Adventurers, which hereafter followes.</p>
+            <div type="part">
+               <head>COM. NORF.</head>
+               <list>
+                  <label>Denver.</label>
+                  <item>
+                     <p>
+                        <seg rend="decorInit">O</seg>Ut of the common Fenne-grounds, of, or belonging to <hi>Denver</hi> in the ſaid County of <hi>Norfolk,</hi> lying on the Weſt-ſide of the river <hi>Ouſe,</hi> three hundred and foureſcore Acres, (that is to ſay,) one hundred twenty foure Acres out of that part of the Fenne near <hi>Salters Lode,</hi> abutting Eaſtward upon the ſaid river, and Northward upon the river called <hi>Bedford</hi> river. And the reſidue being two hundred fifty ſix Acres out of that part of the ſaid Fenne that lieth next <hi>Salters Lode</hi> upon the North-ſide of the ſaid new river, abutting upon the ſaid new river, and Well-Creek. <seg>0380 0 00</seg>
+                     </p>
+                     <p>Out of a ſeveral Fenne-ground in <hi>Denver</hi> aforeſaid abutting Weſt-ward upon the grounds of Well, foure Acres at the South-end thereof next <hi>Denver</hi> Fenne. <seg>0004 0 00</seg>
+                     </p>
+                  </item>
+                  <pb n="4" facs="tcp:176002:4"/>
+                  <label>Helgay.</label>
+                  <item>
+                     <p>Out of the common Fennes of, or belonging to <hi>Helgay,</hi> in the ſaid County of <hi>Norfolk,</hi> one thouſand three hundred Acres, (that is to ſay) one entire Fenne, lying between Sir <hi>Henry Willoughbies</hi> dreyne and <hi>Southerey</hi> Common, containing nine hundred eighty two Acres, and the reſidue being three hundred and eighteen Acres, out of that part of the ſaid Fenne abutting Northward upon the imbanked grounds of <hi>Edmund Skipwith</hi> Eſquire, and adjoyning to the ſaid river <hi>Ouſe.</hi> 
+                        <seg>1300 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fenne-grounds, of, or belonging to Sir <hi>Henry Willoughbie</hi> Knight, called <hi>Reads</hi> Fenne, three hundred and ſixty Acres, at the North-end of the ſaid grounds, abutting upon <hi>Mayd Lode.</hi> 
+                        <seg>0360 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Southerey.</label>
+                  <item>
+                     <p>Out of the common Fen-grounds, of, or belonging to <hi>Southerey</hi> in the ſaid County of <hi>Norfolk,</hi> eight hundred Acres out of the common Fen cal<g ref="char:EOLhyphen"/>led <hi>Adymore,</hi> abutting upon <hi>Helgay</hi> common Fenne, and the river <hi>Ouſe.</hi> 
+                        <seg>0800 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fenne-grounds in <hi>Southerey</hi> aforeſaid, of, or be<g ref="char:EOLhyphen"/>longing to Sir <hi>Henry Willoughby</hi> aforeſaid, lying on the Eaſt-ſide of the river <hi>Ouſe,</hi> ſeventy and ſix Acres at the South-end thereof, near to <hi>Modney</hi>-houſe. <seg>0076 0 00</seg>
+                     </p>
+                     <p>Out of one other ſeveral Fenne ground in <hi>Southerey</hi> aforeſaid, of, or belonging to the ſaid Sir <hi>Henry Willoughbie</hi> Knight, lying on the Weſt-ſide of the river <hi>Ouſe,</hi> ſeventy ſix Acres at the Weſt-end of the ſame grounds. <seg>0076 0 00</seg>
+                     </p>
+                     <p>Out of one other ſeveral Fenne ground, lying in <hi>Southerey</hi> or <hi>Helgay,</hi> or one of them, of, or belonging to <hi>Thomas Gibbon</hi> Eſquire, twenty Acres at the Weſterne end thereof, near Prieſts houſes. <seg>0020 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Roxham.</label>
+                  <item>
+                     <p>Out of the common Fenne-grounds, of, or belonging to <hi>Roxham</hi> in the ſaid County of <hi>Norfolk,</hi> ninety foure Acres at the South-eaſt part of the ſame Fenne, abutting upon <hi>Dereham</hi> Coat Fenne, and the river <hi>Wiſſey.</hi> 
+                        <seg>0094 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Dereham.</label>
+                  <item>
+                     <p>Out of the common Fenne grounds, of, or belonging to <hi>Dereham</hi> in the ſaid County of <hi>Norfolk,</hi> two hundred Acres, (that is to ſay) ninety five Acres out of the Fenne called <hi>Dereham</hi> Coat Fenne, abutting up<g ref="char:EOLhyphen"/>on <hi>Roxham</hi> Fenne, and the river <hi>Wiſſey,</hi> and the reſidue being one hun<g ref="char:EOLhyphen"/>dred and five Acres out of the common Fenne, at the parts thereof, a<g ref="char:EOLhyphen"/>butting upon the ſaid river <hi>Wiſſey</hi> and <hi>Wereham.</hi> 
+                        <seg>0200 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Woreham, Wretton and Stoke.</label>
+                  <item>
+                     <p>Out of the common Fennes, of, or belonging to <hi>Wereham, Wretton</hi> and <hi>Stoke</hi> in the ſaid County of <hi>Norfolk,</hi> five hundred, thirty and ſix Acres in one piece, next the ſaid river <hi>Wiſſey,</hi> extending along the ſaid river, from the North-ſide of <hi>Tokeſhill</hi> to <hi>Weredike.</hi> 
+                        <seg>0536 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Norwold.</label>
+                  <item>
+                     <p>Out of the common Fenne grounds, of, or belonging to <hi>Norwold,</hi> in the ſaid County of <hi>Norfolk,</hi> foure hundred twenty and nine Acres, (that is to ſay) the entire common Fenne lying on the North-ſide of the river <hi>Wiſſey,</hi> containing twenty nine Acres, and the reſidue being foure hundred Acres, out of the common Fennes, lying on the South-ſide of the ſaid river, abutting upon the ſaid river, and lying between <hi>Howhill</hi> and <hi>Whittington</hi> Cauſey, and between the ſaid river and the hard lands of <hi>Norwold.</hi> 
+                        <seg>0429 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Methwold.</label>
+                  <item>
+                     <p>Out of the common Fennes, of, or belonging to <hi>Methwold</hi> in the ſaid County of <hi>Norfolk,</hi> one thouſand ſix hundred fourty and eight Acres, out of the Fennes called <hi>Southmore</hi> and <hi>Twinne Lodes,</hi> abutting North<g ref="char:EOLhyphen"/>weſtward,
+<pb n="5" facs="tcp:176002:4"/> upon part of the ſaid Common called <hi>Southmore,</hi> wherein <hi>Southerey</hi> doth inter-common North-Eaſtward upon the ſeveral Fenne grounds of Sir <hi>Edmund Mundford</hi> Knight, and Southward upon the common Fenne of <hi>Feltwel,</hi> called North Fenne. <seg>1648 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds of <hi>Methwold</hi> aforeſaid, three hundred fif<g ref="char:EOLhyphen"/>ty ſeven Acres at the weſt-end of two of the ſaid ſeverals next <hi>Southerey.</hi> 
+                        <seg>0357 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Feltwell.</label>
+                  <item>
+                     <p>Out of the common Fenne-grounds, of, or belonging to <hi>Feltwel</hi> in the ſaid County of <hi>Norfolk,</hi> one thouſand ſix hundred ninety ſeven Acres, (that is to ſay) eight hundred and fourty Acres out of the Fenne called North-Fen, at the North-Eaſt part thereof, abutting up<g ref="char:EOLhyphen"/>on the common Fenne of <hi>Methwold</hi> called <hi>Southmore.</hi> Out of the Fen called the Mowe-Fen, eighty Acres at the Weſt-part of the ſame Fen next <hi>Brandon</hi> river. And the reſidue being ſeven hundred ſeven<g ref="char:EOLhyphen"/>ty and ſeven Acres out of the Fen called the South-Fen, at the South<g ref="char:EOLhyphen"/>weſt part thereof, abutting upon the ſaid Mowe-Fen, and the ſeveral Fen ground belonging to Sir <hi>Thomas Woodhouſe.</hi> 
+                        <seg>1697 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds of, or, belonging to <hi>Feltwel</hi> afore<g ref="char:EOLhyphen"/>ſaid, ſeven hundred fifty and one Acres, (that is to ſay) out of the ſeve<g ref="char:EOLhyphen"/>ral Fen ground, now, or late of Sir <hi>Thomas Woodhouſe</hi> Knight, abutting upon <hi>Feltwel</hi> South-Fen, and a ſeveral belonging to Sir <hi>Edmund Mund<g ref="char:EOLhyphen"/>ford,</hi> two hundred and ſix Acres out of the middle part of the ſaid ſeveral Fen, from North to South. Out of the ſeveral Fen ground of Sir <hi>Edmund Mundford</hi> aforeſaid, abutting upon the ſaid ſeveral of Sir <hi>Thomas Woodhouſe</hi> aforeſaid, one hundred ninety and ſeven Acres out of the middle part of the ſaid Fenne, from North to South. Out of the ſeveral Fen-ground belonging to Chriſts Colledge, abutting upon the ſaid ſeveral Fen-ground of Sir <hi>Edm. Mundford</hi> aforeſaid, one hundred twenty ſix acres out of the middle part of the ſaid ground from North to South. Out of the ſeveral fen-ground late of <hi>Robert Wace</hi> Gent. abut<g ref="char:EOLhyphen"/>ting upon the ſaid ſeveral ground of Chriſts Colledge, and the river of <hi>Brandon,</hi> one hundred ſeventy two acres out of the middle of the ſaid ground from North to South. Out of the ſeveral Fen-ground, lying be<g ref="char:EOLhyphen"/>tween the Fen-grounds of Chriſts Colledge aforeſaid, &amp; the river of <hi>Bran<g ref="char:EOLhyphen"/>don</hi> fourteen acres, abutting Northward upon the ſeveral Fen-ground of <hi>Thomas Gibbon</hi> Eſquire. Out of the ſeveral Fen-grounds, of, or be<g ref="char:EOLhyphen"/>longing to <hi>Thomas Tyrel</hi> Gent. lying between the aforeſaid Fenne-grounds of Sir <hi>Edmund Mundford</hi> Knight, and the river of <hi>Brandon,</hi> thirteen Acres, and twenty Perches at the South-Eaſt end of the ſame ground. Out of the ſeveral Fen-ground lying between the ſeveral Fen of Sir <hi>Thomas Woodhouſe</hi> aforeſaid, and the river of <hi>Brandon,</hi> ten Acres and three Roods, at the South-part thereof. Out of the ſeveral Fen-ground late of <hi>Robert Wace</hi> Gent. abutting upon the hard lands of <hi>Feltwel</hi> aforeſaid ſix Acres and ten Perches at the North-weſt-end of the ſame ground. Out of the ſeveral Fen-ground lying between <hi>Feltwel</hi> Mowe-Fen, and the river of <hi>Brandon,</hi> ſix Acres and ten Perches at the North-weſt end thereof. <seg>0751 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Hocwold <hi>and</hi> Wil<g ref="char:EOLhyphen"/>ton.</label>
+                  <item>
+                     <p>Out of the common Fen-grounds, of, or belonging to <hi>Hockwold</hi> and <hi>Wilton,</hi> in the ſaid County of <hi>Norfolk,</hi> nine hundred and fifty Acres out of the common Fenne, adjoyning to the common Fennes, and the hard lands of <hi>Feltwel,</hi> and abutting upon the ſaid hard lands of <hi>Feltwel.</hi> 
+                        <seg>0950 0 00</seg>
+                     </p>
+                     <pb n="6" facs="tcp:176002:5"/>
+                     <p>Out Of the ſeveral Fen-grounds of <hi>William Heveningham</hi> Eſquire, two hundred Acres (that is to ſay) out of the ſeveral ground called Poolings, one hundred Acres at the North-ſide thereof, abutting upon <hi>Feltwel</hi> Mowe-Fen, and the river of <hi>Brandon,</hi> and out of one other ſe<g ref="char:EOLhyphen"/>veral ground lying on the South-weſt ſide of the ſaid river of <hi>Brandon,</hi> one hundred Acres abutting upon the Fenne called <hi>Redmore</hi> grounds, and the ſaid river of <hi>Brandon.</hi> 
+                        <seg>0200 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground of <hi>Osbert Pratt</hi> Gent. lying next the Fen called Sea-Fen, ten Acres at the North-end of the ſame ground. <seg>0010 0 00</seg>
+                     </p>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>COM. S<g ref="char:V">Ʋ</g>FF.</head>
+               <list>
+                  <label>Brandon.</label>
+                  <item>
+                     <p>OUt of the common Fen grounds, of, or belonging unto <hi>Brandon</hi> in the Countie of <hi>Suffolk,</hi> three hundred and fifty Acres, (that is to ſay) one entire Fen abutting upon the Eaſt-part of the Com<g ref="char:EOLhyphen"/>mon Fen of <hi>Lackingheath</hi> called <hi>Stallard,</hi> one hundred and ninety Acres, and the reſidue being one hundred and ſixty Acres out of a Common Fen abutting upon the ſaid entire Fen, at the Weſt-end of the ſaid Com<g ref="char:EOLhyphen"/>mon Fen. <seg>0350 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Lacking<g ref="char:EOLhyphen"/>heath.</label>
+                  <item>
+                     <p>Out of the Common Fen grounds, of, or belonging to <hi>Lackingheath,</hi> in the ſaid County of <hi>Suffolk,</hi> one thouſand and eight hundred Acres (that is to ſay) the moiety or one half of the common Fen, called <hi>Little-ſhell</hi> of <hi>Eaſt-more,</hi> being ninety two Acres at the Eaſterne part thereof, next the common Fen called <hi>Archingſtal.</hi> The ſaid entire common Fen called <hi>Archingſtal,</hi> containing one hundred ſeventy foure Acres. One entire common Fen, abutting upon the river of <hi>Brandon. Audry Love,</hi> and j the ſeveral Fen ground of <hi>William Heveningham</hi> Eſquire, containing fourty ſeven Acres. One entire common Fen lying on the North-ſide of <hi>Brandon</hi> river, between the common Fen of <hi>Hockwold</hi> and <hi>Wilton,</hi> called Sea Fen, and the ſeveral Fen of <hi>William Heveningham</hi> aforeſaid, containing fifty eight Acres and a halfe. The entire common Fen, called <hi>Town-more,</hi> containing five hundred ſeventy nine Acres; And the reſidue being eight hundred fourty nine Acres and a half, out of the great common Fen, abutting upon <hi>Plant Lode,</hi> and the ſaid Fen called <hi>Town-moore,</hi> at the North-weſt part thereof. <seg>1800 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Lacking<g ref="char:EOLhyphen"/>heath. Severals.</label>
+                  <item>
+                     <p>Out of the ſeveral Fen grounds, of, or belonging to <hi>Lackingheath</hi> a<g ref="char:EOLhyphen"/>foreſaid, two hundred and foureſcore Acres (that is to ſay) out of the ſeveral Fen grounds of <hi>Unley</hi>-Farme, lying between the common Fen grounds of <hi>Lackingheath</hi> aforeſaid, and the Sedge-Fens of <hi>Milden</hi>-hall, one hundred twenty three Acres and two Roods at the Weſt-end of the ſame ground. Out of the ſeveral Fen ground, now, or late of <hi>William Steward</hi> Gent. lying at the Weſt-end of the common Fen called <hi>Stallard,</hi> three Acres and one Rood at the Weſt-end of the ſame ground. Out of one other ſeveral Fen ground, now, or late of the ſaid <hi>William Stew<g ref="char:EOLunhyphen"/>ard,</hi> lying on the North-ſide of <hi>Brandon</hi> river, ſix Acres and one Rood at the North-weſt end of the ſame ground. Out of the ſeveral Fen ground abutting upon the ſaid common Fen called <hi>Stallard,</hi> and the high <hi>Lode,</hi> foure Acres at the North-end of the ſame ground. Out of a triangular ſeveral Fen ground, abutting upon the ſaid common Fen
+<pb n="7" facs="tcp:176002:5"/> called <hi>Stallard,</hi> and the high Lode, one Acre, three Roods and twenty Perches, at the South-end of the ſame ground. Out of the ſeveral Fen ground, lying between Winter Lode and Croſſe-water, at the meeting of the ſame Lodes, one Acre, three Roods, and twenty Perches, at the North-weſt end thereof. Out of a ſeveral Fen ground, lying near Willow-Lode, incompaſſed on all ſides with the common Fen of <hi>Lackingheath</hi> aforeſaid, two Acres at the Weſt-part of the ſame ground. Out of the ſeveral Fen ground, lying on the Eaſt-part of the laſt mentioned ſeveral ground foure Acres and one Rood at the North-weſt end thereof. Out of one other ſeveral Fen ground, lying on the Eaſt-part of the ſeveral ground laſt mentioned, and abutting upon Croſſe-water, eight Acres at the North-weſt ſide of the ſame ground, next unto Croſſe-water aforeſaid. Out of the ſeveral Fen ground, lying between the laſt mentioned ſeveral ground and Willow Lode; two Acres and three Roods at the Weſt-end of the ſame ground Out of the ſeveral Fen ground, abutting upon the Weſt-ſide of Winter-Lode, and high Lode aforeſaid, fifteen Acres and two Roods at the North-weſt end thereof, abutting upon high-Lode. Out of the ſe<g ref="char:EOLhyphen"/>veral Fen ground, abutting upon the common Fen called <hi>Eaſt-moore,</hi> and the ſeveral Fenne called the Boats-gangs, two Acres at the North-weſt end thereof next to <hi>Delfe Dyke.</hi> Out of the ſeveral Fen grounds called the Boats gangs, ſixty ſeven Acres and a half at the Weſt-end hereof, a butting upon <hi>Plant load</hi> and <hi>Delfe Dyke.</hi> Out of the ſeveral Fen ground now, or late of <hi>John Crane,</hi> abutting upon High-load, and the ſeveral ground now, or late of <hi>William Barne</hi> Gent. eight Acres and two Roods, adjoyning upon the ſaid ſeveral ground of <hi>William Barne,</hi> and the ſaid High-load. Out of the ſaid ſeveral fen-ground now, or late of <hi>William Barne</hi> aforeſaid, ten Acres adjoyning upon the ſaid ſeveral ground of <hi>John Crane.</hi> Out of one other ſeveral Fen ground now, or late of the ſaid <hi>John Crane,</hi> lying near the ſaid ſeveral ground of <hi>Willi<g ref="char:EOLhyphen"/>am Barne</hi> aforeſaid, ſix Acres and two Roods at the North-weſt ſide of the ſame ground, abutting upon High-load aforeſaid, Out of the greater of the two ſeveral Fen grounds, lying between <hi>Delfe Dyke</hi> and <hi>Brandon</hi> river, eight Acres and two Roods at the North-weſt ſide there<g ref="char:EOLhyphen"/>of. And out of the other ſmaller ſeveral, lying between <hi>Delfe-dyke</hi> and <hi>Brandon</hi> river, three Acres and three Roods, at the North-end of the ſame ground. <seg>0280 0 00</seg>
+                     </p>
+                  </item>
+                  <label>
+                     <hi>Millden</hi>-hall.</label>
+                  <item>
+                     <p>Out of the common Fen-ground, of, or belonging to <hi>Milden</hi>-hall, in the ſaid County of <hi>Suffolke,</hi> two thouſand nine hundred and twenty Acres, (that is to ſay,) one entire common Fen called Burnt Fen, con<g ref="char:EOLhyphen"/>taining one thouſand ſeven hundred and thirty ſeven Acres. Two en<g ref="char:EOLhyphen"/>tire Fen grounds called Sedge Fens, lying between Burnt-Fen and <hi>Town-Moore</hi> in <hi>Lackingheath</hi> aforeſaid, containing eight hundred and fourty Acres. And the reſidue being three hundred fourty and three Acres out of the common Fen, lying between the ſeveral Fen-grounds of <hi>Unly</hi> Farme, and <hi>Baldwins</hi> Loade, at the Weſt-part of the ſame Fen. <seg>2920 0 00</seg>
+                     </p>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:176002:6"/>
+               <head>COM. CANTABR.</head>
+               <list>
+                  <label>I<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ham.</label>
+                  <item>
+                     <p>OUt of the common Fen grounds, of, or belonging to <hi>Iſleham</hi> in the County of <hi>Cambridge,</hi> nine hundred and thirty Acres, (that is to ſay,) one entire common Fen, abutting upon the common Fens of <hi>So<g ref="char:EOLhyphen"/>ham,</hi> called great <hi>Metlam</hi> and little <hi>Metlam,</hi> and the river of <hi>Milden</hi>-hall, containing three hundred and eight Acres. Out of the Mowe Fen of <hi>Iſleham,</hi> abutting upon the fore-mentioned common Fen of <hi>Iſleham,</hi> and the ſaid river of <hi>Milden</hi>-hall, foure hundred thirty two Acres at the North-part thereof. And out of the common Fen of <hi>Iſleham,</hi> called Weſt-Fen, abutting upon the common Fens of <hi>Soham,</hi> called little <hi>Metlam</hi> and the <hi>Haſſe,</hi> one hundred and ninety Acres at the North-end of the ſame Fen. <seg>0930 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Soham.</label>
+                  <item>
+                     <p>Out of the common Fen grounds, of, or belonging to <hi>Soham</hi> and <hi>Barway,</hi> in the ſaid County of <hi>Cambridge,</hi> one thouſand and eight hun<g ref="char:EOLhyphen"/>dred Acres, (that is to ſay) the entire common Fen, abutting upon <hi>Wickin</hi> high Fen, called <hi>Fordey,</hi> containing one hundred fifty ſix Acres and a half. Out of the common Fen called <hi>Barway</hi> middle, ſe<g ref="char:EOLhyphen"/>venty foure Acres and a half at the North-eaſt part thereof, abutting upon Sea Load, and the river <hi>Ouſe.</hi> The two entire common Fens called great <hi>Metlam</hi> and little <hi>Metlam,</hi> containing one thouſand two hundred and ten Acres. And out of the common Fen called the <hi>Haſſe,</hi> three hundred fifty nine Acres at the North-part thereof, abutting up<g ref="char:EOLhyphen"/>on little <hi>Metlam</hi> aforeſaid. <seg>1800 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground in <hi>Soham</hi> aforeſaid, of, or belonging to Sir <hi>Robert Heath</hi> Knight, foure hundred and twenty Acres. Out of the ſeveral Fen ground called great <hi>Metlam,</hi> abutting upon the Common called great <hi>Metlam,</hi> and the river of <hi>Milden</hi>-hall, at the Eaſt-part of the ſaid ſeveral Fen. <seg>0420 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground in <hi>Soham</hi> aforeſaid, lying between the fens, called Eaſt Fen and Calf Ten, eight Acres at the Eaſt-end thereof. <seg>0008 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground in <hi>Soham,</hi> called <hi>Bugbeach,</hi> one Acre at the Weſt-end thereof. <seg>0001 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Fordbam.</label>
+                  <item>
+                     <p>Out of the common Fen-grounds, of, or belonging to <hi>Fordham</hi> in the ſaid County of <hi>Cambridge,</hi> lying between the Fen grounds of <hi>Burwel,</hi> and the hard lands near <hi>Wickin,</hi> twenty ſeven Acres at the Weſt-end of the ſame Fen. <seg>0027 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Wickin.</label>
+                  <item>
+                     <p>Out of the common Fen-grounds, of, or belonging to <hi>Wickin,</hi> in the ſaid County of <hi>Cambridge,</hi> foure hundred and fifty Acres, (that is to ſay,) out of the common Fen called the Sedge-Fen, or broad med<g ref="char:EOLhyphen"/>dow, three hundred Acres at the Weſtern end thereof, abutting upon Reach Load, the hard lands of <hi>Wickin,</hi> and the imbanked ſeveral grounds of <hi>Iſaac Barrow</hi> Eſquire. And the reſidue being one hundred and fifty Acres out of the common Fen called high Fen, at the North-eaſt part thereof, adjoyning upon the ſeveral ground of <hi>Thetford,</hi> called the <hi>Bots</hi> gangs, and the river <hi>Grant.</hi> 
+                        <seg>0450 0 00</seg>
+                     </p>
+                     <p>Out of the Fen-grounds of <hi>Wickin</hi> aforeſaid, being Mowe Fens, or
+<pb n="9" facs="tcp:176002:6"/> 
+                        <hi>Lamas</hi> grounds, conſiſting of the lots or doles of divers perſons. One hundred Acres, (that is to ſay) out of the mowing ground lying on the Weſt-ſide of the river <hi>Grant,</hi> fifty five Acres, and three Roods, at the Weſt-end of the ſame lots or doles, abutting upon the common Fen of <hi>Water-beach,</hi> called <hi>Joyſt</hi> Fen. Out of the mowing grounds, lying between the hard lands of <hi>Wickin</hi> aforeſaid, the river <hi>Grant,</hi> the ſeve<g ref="char:EOLhyphen"/>ral Fen grounds of <hi>Upmeere</hi> farme. And the way leading from the hard lands of <hi>Wickin,</hi> unto <hi>Dimockes</hi> Coat, twenty three Acres and one Rood, at the middle part of the ſaid Mowe Fen, where the ſaid doles or lots do abutt one upon another, extending from the ſaid hard lands of <hi>Wickin,</hi> to the ſaid way leading to <hi>Dimockes</hi> Coat. And out of the Mowe Fen ground lying between the ſaid way, leading to <hi>Di<g ref="char:EOLhyphen"/>mockes</hi> Coat, the river <hi>Grant,</hi> the high Fen of <hi>Wickin,</hi> and the hard lands of <hi>Wickin,</hi> twenty one Acres at the middle part of the ſaid Mowe Fen, where the ſaid doles or lots do abutt one upon another, ex<g ref="char:EOLhyphen"/>tending from the ſaid way leading to <hi>Dimockes</hi> Coat, unto the way leading to <hi>Wickin</hi> high Fen aforeſaid. <seg>0100 0 00</seg>
+                     </p>
+                     <p>Out of a ſeveral Sedge Fen of <hi>Iſaac Barrow</hi> Eſquire, lying in <hi>Wickin</hi> aforeſaid, twenty one Acres at the North-weſt part thereof. <seg>0021 0 00</seg>
+                     </p>
+                     <p>Out of a ſeveral Sedge Fen, of, or belonging to Sir <hi>Edward Payton,</hi> Knight and Baronet, fourteen Acres at the Weſt-end thereof. <seg>0014 0 00</seg>
+                     </p>
+                     <p>Out of other ſeveral Fen-grounds lying in <hi>Wickin</hi> aforeſaid, twen<g ref="char:EOLhyphen"/>ty Acres, (that is to ſay) out of the imbanked ſeveral Fen-ground of <hi>I<g ref="char:EOLhyphen"/>ſaac Barrow</hi> aforeſaid, ſeven Acres at the Weſt-end thereof, abutting upon the hard lands of <hi>Wickin</hi> aforeſaid. Out of the ſeveral Fen grounds belonging to <hi>Upmeer</hi> farme, five Acres at the North-eaſt end of the ſame grounds, abutting upon the Mowe Fen of <hi>Wickin</hi> and the river <hi>Grant.</hi> Out of the ſeveral Fen ground now, or late of Sir <hi>Edward Payton</hi> aforeſaid, lying upon the Weſt-ſide of the river <hi>Grant,</hi> five Acres at the South-weſt end thereof, abutting upon the river <hi>Grant.</hi> And out of the ſeveral Fen-ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Dalton</hi> Gent. adjoyning to the ſaid ſeveral Fen of Sir <hi>Edward Payton</hi> and the river <hi>Grant,</hi> three Acres at the South-weſt part of the ſame ſeveral ground. <seg>0020 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Burwel <hi>and</hi> Reach.</label>
+                  <item>
+                     <p>Out of the common Fen-grounds, of, or belonging to <hi>Burwel,</hi> and <hi>Reach</hi> in the ſaid County of <hi>Cambridge,</hi> ſeven hundred Acres at the North-weſt part of the ſame Fens, abutting upon <hi>Wickin</hi> Load and <hi>Reach</hi> Load. <seg>0700 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Swafham.</label>
+                  <item>
+                     <p>Out of the intercommon Fens, of, or belonging to <hi>Swafham, Prior Swafham, Bulbeck Botſam,</hi> and <hi>Reach</hi> in the ſaid County of <hi>Cambridge,</hi> or to ſome or one of them, one thouſand foure hundred Acres, (that is to ſay) out of the common Fen called white Fen, foure hundred and eleven Acres, abutting upon <hi>Swaffham</hi> Load and White Fen lake. Out of the common Fen called the <hi>Croyle,</hi> foure hundred and foure Acres, abutting Eaſtward upon the common Fen, called great Sedge Fen, Southward and Weſtward, upon the reſidue of the ſame common Fen, called the <hi>Croyle,</hi> and Northward upon the common Fen called the high Fen. Out of the ſaid common Fen called the high Fen, foure hundred and five Acres at the North-eaſt part thereof, abutting upon <hi>Reach</hi> Load and the river <hi>Grant.</hi> And out of the common Fen, called great Sedge Fen, one hundred and eighty Acres at the North-end
+<pb n="10" facs="tcp:176002:7"/> thereof, abutting upon the high Fenne and <hi>Reach</hi> Load. <seg>1400 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Botſam.</label>
+                  <item>
+                     <p> Out of the common Fen grounds, of, or belonging to <hi>Botſam</hi> in the ſaid County of <hi>Cambridge,</hi> lying between White-Fen Lake and the ri<g ref="char:EOLhyphen"/>ver <hi>Grant,</hi> one hundred and fourty Acres at the North-eaſt end of the ſame Fen-ground, abutting upon <hi>Swaffham</hi> high Fen, and the river <hi>Grant.</hi> 
+                        <seg>0140 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Horning<g ref="char:EOLhyphen"/>ſey, Qui <hi>&amp;</hi> Ditton.</label>
+                  <item>
+                     <p> Out of the intercommon Fen-grounds, of, or belonging to <hi>Botſam-Horningſey, Qui</hi> and <hi>Ditton</hi> in the ſaid County of <hi>Cambridge,</hi> or to ſome or one of them foure hundred Acres, (that is to ſay) out of the common Fen called High Fen, one hundred Acres at the Eaſterne end thereof, abutting upon the common Fen called the Rough. And out of the ſaid common Fen called the Rough, three hundred Acres at the weſterne part thereof, abutting upon the ſaid high Fen. <seg>0400 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Water-beach.</label>
+                  <item>
+                     <p> Out of the common Fen grounds, of, or belonging to <hi>Water-beach</hi> in the ſaid County of <hi>Cambridge,</hi> ſeven hundred and fifty Acres, (that is to ſay) out of the Fen called the <hi>Joyſt</hi> Fen, ſix hundred thirty eight Acres at the North-end thereof, abutting upon the ſeveral Fen grounds of <hi>Stretham</hi> and <hi>Wickin.</hi> And out of one other Fen, lying between the ſaid Fen, called <hi>Joyſt</hi> Fen, the river <hi>Grant,</hi> and the hard lands of <hi>Water-beach,</hi> one hundred and twelve Acres at the North-eaſt end thereof, abutting upon the ſaid Fen called <hi>Joyſt</hi> Fen, and the river <hi>Grant.</hi> 
+                        <seg>0750 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Cottenham.</label>
+                  <item>
+                     <p> Out of the common Fen grounds, of, or belonging to <hi>Cottenham,</hi> in the ſaid County of <hi>Cambridge,</hi> two hundred and fourty Acres at the Eaſt-end of the common Fen, lying between the common Fens, called <hi>Sech</hi>-hill <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ens and the lots. <seg>0240 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Rampton.</label>
+                  <item>
+                     <p> Out of the common Fen grounds, of, or belonging to <hi>Rampton</hi> in the ſaid County of <hi>Cambridge,</hi> ſixteen Acres, (that is to ſay) out of the Mowe Fen called <hi>Hempſal,</hi> thirteen Acres at the North-eaſt end there<g ref="char:EOLhyphen"/>of, abutting upon <hi>Smithy</hi> Fen in <hi>Cottenham.</hi> And out of the common Fen-ground called <hi>Iram,</hi> three Acres at the Eaſt-corner thereof, abutting upon <hi>Hempſal</hi> aforeſaid. <seg>0016 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Wiveling<g ref="char:EOLhyphen"/>ham.</label>
+                  <item>
+                     <p> Out of the common Fens, of, or belonging to <hi>Wivelingham</hi> in the ſaid County of <hi>Cambridge,</hi> one hundred eighty three Acres and one Rood, (that is to ſay) out of the common Fen ground called <hi>Hempſal,</hi> fifty three Acres at the North-part thereof, adjoyning upon <hi>Smithy</hi> Fen and <hi>Audrey Cauſey.</hi> Out of the common Fen called Middle-ditch Fen, ſeventy ſeven Acres and one rood at the South-eaſt part thereof, abut<g ref="char:EOLhyphen"/>ting upon the ſeveral Fen ground called <hi>Babies Hurne,</hi> and the river <hi>Ouſe.</hi> And out of the common Fen called <hi>Clattox</hi> or <hi>Langrige,</hi> fifty three Acres at the North-end thereof, abutting upon the ſeveral Fen-grounds of <hi>Over,</hi> and the ſeveral Fen-grounds in <hi>Wivelingham,</hi> called the Meere-grounds. <seg>0183 1 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds of, or belonging to <hi>Wivelingham</hi> afore<g ref="char:EOLhyphen"/>ſaid, fourty Acres &amp; three Roods (that is to ſay) out of the ſeveral ground called <hi>Shelfold,</hi> conſiſting of the lots or doles of divers perſons, twelve Acres and three Roods at the South-weſt end of the ſaid lots, next unto the Fens of <hi>Over.</hi> Out of the ſeveral Fen called <hi>Babies Hurne,</hi> thirteen Acres and three Roods at the North-end thereof, abutting upon the ri<g ref="char:EOLhyphen"/>ver <hi>Ouſe.</hi> Out of the ſeveral Fen-ground now, or late of <hi>James Paſ<g ref="char:EOLhyphen"/>call</hi>
+                        <pb n="11" facs="tcp:176002:7"/> Gent. called <hi>Stacks,</hi> ſeven Acres at the North-eaſt end thereof, a<g ref="char:EOLhyphen"/>butting upon <hi>Andrey Cauſey.</hi> And out of the ſeveral Fen of <hi>John Crane</hi> Eſquire, called little <hi>Shelfould,</hi> ſeven Acres and one Rood at the North-Eaſt corner thereof, near <hi>Erith</hi>-Sluce. <seg>0040 3 00</seg>
+                     </p>
+                  </item>
+                  <label>Over.</label>
+                  <item>
+                     <p> Out of the common Fen-grounds, of, or belonging to <hi>Over</hi> in the ſaid County of <hi>Cambridge,</hi> one hundred ſeventy one Acres; Out of the Fen called the Mariſh at the Eaſt-end thereof, abutting North-weſt<g ref="char:EOLhyphen"/>ward upon the Eaſt-end of the lots or doles of divers perſons, extend<g ref="char:EOLhyphen"/>ing from the place called the <hi>Haywards Swath,</hi> unto the bank of the ri<g ref="char:EOLhyphen"/>ver <hi>Ouſe</hi> Eaſtward, upon the ſeveral, or the late incloſed grounds of <hi>Over</hi> aforeſaid, called <hi>Blunts</hi> Meer, and Southward upon the reſidue of the ſaid Fen called the Mariſh. <seg>0171 0 00</seg>
+                     </p>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>INS<g ref="char:V">Ʋ</g>LA ELIE<g ref="char:V">Ʋ</g>M IN COM. CANTAB.</head>
+               <list>
+                  <label>Hadden<g ref="char:EOLhyphen"/>ham.</label>
+                  <item>
+                     <p> OUt of the common Fen grounds, of, or belonging to <hi>Haddenham</hi> in the ſaid Iſle of <hi>Elie,</hi> and County of <hi>Cambridge,</hi> three hun<g ref="char:EOLhyphen"/>dred ſeventy eight Acres, (that is to ſay) out of the Fen called <hi>Gaule</hi> Fen, three hundred and nine Acres at the Eaſt-part thereof, abutting upon <hi>Berry</hi> Fen. And the reſidue being ſixty nine Acres, out of the common Fen called <hi>Berry</hi> Fen aforeſaid, at the Weſt-ſide thereof, a<g ref="char:EOLhyphen"/>butting upon <hi>Gaule</hi> Fen aforeſaid. <seg>0378 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds, of, or belonging to <hi>Haddenham</hi> aforeſaid, one hundred thirty and eight Acres, (that is to ſay) out of the ſeveral Fen ground, called <hi>Ewell</hi> Fen, thirty ſix Acres and two Roods at the Weſt-part thereof, abutting upon <hi>Gaule</hi> Fen, and the Delfes in <hi>Haddenham.</hi> Out of the Mowe Fen called <hi>Lindon</hi>-doles, nine Acres at the South-ſide thereof, abutting upon the river <hi>Ouſe.</hi> Out of the ſeveral Fen called Prieſts Croſt, one Acre at the South-end thereof next the river <hi>Ouſe.</hi> Out of the greater Fen-ground, called Hill-doles, twelve Acres and twenty Perches at the North-ſide thereof, next <hi>Haddenham</hi> ſmall Fen. Out of the leſſer Fen-ground, called Hill-doles three Acres, one Rood and twenty Perches at the North-end thereof, next <hi>Sutton-Mead</hi> lands. Out of the ſeveral Fen-grounds cal<g ref="char:EOLhyphen"/>led <hi>Ovtr-delfes</hi> and <hi>Pingles,</hi> being eighteen in number, lying on the South-ſide of <hi>Erith</hi>-Cauſey, between the ſeveral Fen-grounds of <hi>Ed<g ref="char:EOLhyphen"/>ward Carter</hi> and <hi>Henry White,</hi> fourty two Acres, as the ſame is already by Lockſpits or ſmall trenches, droportionably divided and ſet out at South-end of every of the ſaid eighteen ſeveral Fen-grounds abutting up<g ref="char:EOLhyphen"/>on the river <hi>Ouſe.</hi> Out of the ſeveral Fen-grounds called <hi>Nether-delfes</hi> ly<g ref="char:EOLhyphen"/>ing between <hi>Erith</hi>-Cauſey and the ſaid Fen, cal'd <hi>Gaule</hi>-Fen, being fifteen in number, twenty nine Acres, three Roods, and twenty two Perches, as the ſame is already alſo ſet out proportionably, and by Lockſpits or ſmall trenches, ſevered and divided from every of the ſaid fifteen ſeveral Fen-grounds. Out of the ſeveral Fen-ground now, or late in the tenure or oc<g ref="char:EOLhyphen"/>cupation of <hi>Henry White,</hi> lying next <hi>Ewell</hi> Fen, one Acre and ten Perches at the North-end thereof, abutting upon the bank of <hi>Ewell</hi> Fen afore<g ref="char:EOLhyphen"/>ſaid. Out of the ſeveral Fen ground now, or late in the tenure or oc<g ref="char:EOLhyphen"/>cupation of <hi>Thomas Pamplin</hi> Gent. lying on the North-ſide of <hi>Erith</hi>
+                        <pb n="12" facs="tcp:176002:8"/> Cauſey, two Roods at the Eaſt-end thereof, abutting upon the Angle of the ſaid Cauſey. Out of the ſeveral Fen-ground called <hi>Calley</hi> Croſt, lying on the North-ſide of <hi>Erith</hi> Cauſey, two Roods and eight Perches at the Weſt-end thereof, abutting upon the ſaid Cauſey. Out of the ſeveral Fen-ground of <hi>Humberſton March</hi> Eſquire, lying on the North-ſide of <hi>Erith</hi> Cauſey, one Acre at the Weſt-end thereof. Out of the ſeveral Fen-ground now, or late of <hi>Richard Wine</hi> Gent. lying on the North-ſide of <hi>Erith</hi> Cauſey, near <hi>Erith</hi> Bridge, one Rood and ten Perches at the Eaſt-part thereof, abutting upon the ſaid ground of <hi>Hum<g ref="char:EOLhyphen"/>berſton March</hi> aforeſaid. And out of the ſeveral Fen-ground, lying be<g ref="char:EOLhyphen"/>tween <hi>Andrey Cauſey</hi> and <hi>Ewell</hi> Fen aforeſaid, two Roods and thirty Perches at the South-end thereof. <seg>0138 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Wilburton.</label>
+                  <item>
+                     <p> Out of the common Fen-grounds, of, or belonging to <hi>Wilburton</hi> in the ſaid Iſle of <hi>Elie,</hi> and County of <hi>Cambridge,</hi> one hundred, ſe<g ref="char:EOLhyphen"/>venteen Acres and two Roods. Out of the Fens called <hi>Skeg</hi> Fen and Ruſh <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en, at the Weſt-ſides of the ſaid Fens, abutting upon the com<g ref="char:EOLhyphen"/>mon Fens of <hi>Haddenham,</hi> the river <hi>Ouſe,</hi> and the hard lands of <hi>Wilbur<g ref="char:EOLhyphen"/>ton</hi> aforeſaid. <seg>0117 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds, of, or belonging to <hi>Wilburton</hi> afore<g ref="char:EOLhyphen"/>ſaid, ſix Acres and two Roods, (that is to ſay,) out of the ſeveral Fen-ground of Sir <hi>Miles Sandys</hi> Knight, fifteen Perches, abutting upon <hi>Skeg</hi> Fen. Out of the ſeveral ground now, or late of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Ware</hi> Yeoman, thirty Perches abutting alſo upon <hi>Skeg</hi> Fen. Out of the ſeve<g ref="char:EOLhyphen"/>ral Fen-ground now or late of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Sanders</hi> Yeoman, fifteen Perches, abutting alſo upon <hi>Skeg</hi> Fen. And out of the ſeveral Fen-ground of <hi>Thomas Towers</hi> Gent. ſix Acres and twenty Perches at the Weſt-part thereof, abutting alſo upon <hi>Skeg</hi> Fen, and the bank of the river <hi>Ouſe.</hi> 
+                        <seg>0006 2 00</seg>
+                     </p>
+                  </item>
+                  <label>Stretham <hi>and</hi> Thet<g ref="char:EOLhyphen"/>ford.</label>
+                  <item>
+                     <p> Out of the common Fen-grounds, of, or belonging to <hi>Stretham</hi> and <hi>Thetford</hi> in the ſaid Iſle of <hi>Elie,</hi> and County of <hi>Cambridge,</hi> one hun<g ref="char:EOLhyphen"/>dred ſeventy two Acres and two Roods, out of the Mowe Fen of <hi>Stret<g ref="char:EOLhyphen"/>ham</hi> aforeſaid, called Chair-Fen Plain, at the Eaſt-ſide thereof, abutting upon <hi>Chittring Dyke,</hi> and the river <hi>Ouſe.</hi> 
+                        <seg>0172 2 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds, of, or belonging to <hi>Stretham</hi> and <hi>Thetford</hi> aforeſaid, ſeventy ſeven Acres and two Roods, (that is to ſay) out of the ſeveral Fen-grounds of Sir <hi>Miles Sandys</hi> Knight, ſixty Acres. Out of the ſeveral Fen-ground called <hi>Fidwell</hi> Fen, at the South-eaſt end thereof, abutting upon the Severals of <hi>Wickin,</hi> and the <hi>Joyſt</hi> Fen in <hi>Water-beach.</hi> Out of the ſeveral Fen-ground called <hi>Langmore,</hi> two Acres and one Rood at the North-weſt end thereof, next the com<g ref="char:EOLhyphen"/>mon Fen called <hi>Goulds</hi> Moore. And out of the ſeveral Fen grounds of <hi>Thetford</hi> aforeſaid, called the Boats Gangs, fifteen Acres and one Rood, <hi>(viz.)</hi> the entire ſeveral Fen-ground, called the long Roods, a<g ref="char:EOLhyphen"/>butting upon <hi>Wickin</hi> Fen, containing nine Acres, one Rood and ten Perches. The entire Fen-ground called the ſhort Roods, abutting upon <hi>Soham</hi> Fen, containing two Acres, and five and twenty Perches Out of the ſeveral ground of <hi>Oliver Cromwel</hi> Gent. called <hi>Moonſhell,</hi> thirty five Perches at the South-ſide thereof, abutting upon the ſaid Fen called Short Roods. Out of the ſeveral fen of <hi>Giſlingham</hi> Gent. cal<g ref="char:EOLhyphen"/>led the lot, thirty five Perches at the Eaſt-end thereof, abutting upon
+<pb n="13" facs="tcp:176002:8"/> the common lots: The entire Fen-ground called common lots, abut<g ref="char:EOLhyphen"/>ting upon the long Roods aforeſaid, containing two Acres and three Roods. And the entire common lot, lying near <hi>Harrimore</hi> houſe, be<g ref="char:EOLhyphen"/>tween the rivers <hi>Ouſe</hi> and <hi>Grant,</hi> containing two Roods and fifteen Perches. <seg>0138 0 00</seg>
+                     </p>
+                     <p>Out of the common Fen-grounds, of, or belonging to the Town and City of <hi>Elie,</hi> in the ſaid Iſle of <hi>Elie</hi> and County of <hi>Cambridge,</hi> one thouſand three hundred and fourty Acres, (that is to ſay) out of the com<g ref="char:EOLhyphen"/>mon Fen, called <hi>Little-ſhell</hi> or <hi>Eaſt-more,</hi> ninety two Acres at the Weſt-ſide thereof, abutting upon the common Fen called <hi>Great-ſhell.</hi> And the ſaid entire common Fen called <hi>Great-ſhell,</hi> containing one thouſand two hundred and fourty eight Acres. <seg>1340 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds, of, or belonging unto the Town and City of <hi>Elie</hi> aforeſaid, two hundred twenty and foure Acres, (that is to ſay) out of the ſeveral Fen-ground, of, or belonging to <hi>Shippy</hi> Farme, fourty Acres at the South-part thereof, abutting upon the common Fen called <hi>Great-ſhell.</hi> Out of the ſeveral Fen-ground, of, or belong<g ref="char:EOLhyphen"/>ing to <hi>Quanie</hi> Farme near <hi>Stuntnie,</hi> one entire Fen ground called the <hi>Bye,</hi> encompaſſed with the common Fens of <hi>Elie,</hi> containing twelve Acres. Out of the ſeveral Fen-ground of <hi>William March</hi> Eſquire, called <hi>Spain-Delfe,</hi> lying near unto <hi>Shippy</hi> Farme, eight Acres at the North-eaſt end thereof. Out of the ſeveral Fen-grounds, of, or belong<g ref="char:EOLhyphen"/>ing to <hi>Thorney</hi>-Farme, fourty ſeven Acres at the South-eaſt part there<g ref="char:EOLhyphen"/>of, abutting upon the ſeveral Fen-grounds of <hi>Norney</hi> Farme, and the ſeveral Fen-ground of Sir <hi>Robert Heath</hi> Knight, in <hi>Soham,</hi> called great <hi>Metlam.</hi> Out of the ſeveral Fen grounds, of, or belonging to <hi>Norney</hi> Farme, ſeventy nine Acres, abutting Weſtward upon the black bank Northward, upon the grounds of <hi>Thorney</hi> Farme, and Southward and Eaſtward upon the reſidue of the ſame Fen-ground of <hi>Norney.</hi> Out of the ſeveral Fen-grounds late of, or belonging to Sir <hi>Simon Steward</hi> Knight, lying in <hi>Stuntney</hi> Farme, two and twenty Acres at the Eaſt-part thereof, abutting upon the grounds of <hi>Norney</hi>-Farme. Out of eight ſe<g ref="char:EOLhyphen"/>veral Fen-grounds, lying between the common Fens called <hi>Dunſtal,</hi> the ſeveral grounds of <hi>Thorney</hi>-Farme and Stock-load, twelve Acres, as the ſame is lockſpitted and ſet out, at the North-eaſt ends of the ſame grounds, abutting upon <hi>Stock-Load</hi> aforeſaid, and the grounds of <hi>Thorney</hi>-Farm aforeſaid. And out of the ſeveral Fen-grounds of <hi>Breame</hi> Farme, foure Acres at the South-eaſt end thereof, next the river <hi>Ouſe.</hi> 
+                        <seg>0224 0 00</seg>
+                     </p>
+                     <p>Out of the common Fens of, or belonging to <hi>Stuntney,</hi> thirty two Acres, abutting Eaſtward upon <hi>Soham</hi> Cauſey, and Southward upon the common Fens of <hi>Soham,</hi> called the Borders. <seg>0032 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Little Port</label>
+                  <item>
+                     <p> Out of the intercommon Fen grounds of, or belonging to <hi>Elie Down<g ref="char:EOLhyphen"/>ham,</hi> and <hi>Little-Port</hi> in the ſaid Iſle of <hi>Elie,</hi> and County of <hi>Cambridge,</hi> or to ſome or one of them foure thouſand two hundred and ninety Acres, (that is to ſay) one entire common Fen called <hi>Lowell Moore,</hi> containing one hundred ſeventy foure Acres; and the reſidue being foure thou<g ref="char:EOLhyphen"/>ſand one hundred and ſixteen Acres, out of the great common Fen called <hi>Whelpmoore,</hi> abutting North-eaſtward upon part of the ſame Fen, lying near Prieſts houſes, the ſeveral Fen grounds of <hi>Thomas Gibbon</hi> Eſquire,
+<pb n="14" facs="tcp:176002:9"/> the ſeveral Fen grounds called <hi>Redmore</hi> grounds, and the ſeveral <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en grounds of <hi>William Heaveningham</hi> Eſquire, and Southward upon the ſaid common Fen, called <hi>Lowel Moore.</hi> The common Fen of <hi>Elie,</hi> called <hi>Great Shell,</hi> and the ſeveral fen grounds of <hi>Shippy</hi> Farme, and <hi>Spaine Delfe,</hi> and toward the North-weſt upon the river <hi>Ouſe.</hi>
+                        <seg>4290 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds of, or belonging to <hi>Little-Port</hi> a<g ref="char:EOLhyphen"/>foreſaid, ſeven hundred Acres, (that is to ſay) out of the ſeveral im<g ref="char:EOLhyphen"/>banked Fen-ground of, or belonging to Sir <hi>Miles Sandys,</hi> Knight and Ba<g ref="char:EOLhyphen"/>ronet, three hundred Acres at the North-eaſt end thereof, abutting North-weſtward upon the ſeveral Fen-ground of <hi>Thomas Towers</hi> Gent. North-eaſtward upon the ſeveral Fen-ground of Sir <hi>Henry Willoughbie</hi> Knight, and <hi>Thomas Tyrel</hi> Gent, and South-Eaſtward upon a Cloſe, par<g ref="char:EOLhyphen"/>cell of the ſame imbanked grounds, and the Bank of the ſaid grounds, near unto the houſe called the Chaine houſe near the river <hi>Ouſe.</hi> Out of the ſeveral Fen-ground, of, or belonging to <hi>Thomas Towers</hi> Gent. called <hi>Crouchmore,</hi> ſeventy Acres abutting upon the ſeveral fen-grounds of Sir <hi>Henry Willoughby</hi> Knight, and the ſaid imbanked grounds of Sir <hi>Miles Sandys</hi> aforeſaid Out of the ſeveral fen-ground, of, or belonging to <hi>William Hawkins</hi> Gent. called alſo <hi>Crouchmore,</hi> fifty five Acres at the North part of the ſame Fen, abutting upon the common Fen, called <hi>Hale</hi> Fen. And the ſeveral Fen-ground of Sir <hi>Henry Willoughby</hi> Knight. Out of the ſeveral Fen-ground of <hi>Thomas Tyrell</hi> Gent. lying near Prieſts houſes, twenty ſeven Acres at the Weſt-end of the ſame ground. Out of the ſeveral Fen-ground, late of <hi>Nicholas Milſop,</hi> lying near <hi>Apeſhall,</hi> called the Wood-ground, fourteen Acres at the North-Weſt part of the ſame ground, abutting upon <hi>Weſtmoore,</hi> and the ſeveral grounds of <hi>Ape<g ref="char:EOLhyphen"/>ſhall</hi> Farme aforeſaid. Out of the ſeveral Fen-grounds, of, or belong<g ref="char:EOLhyphen"/>ing to <hi>Apeſhall</hi> farme aforeſaid thirty Acres. Out of the ſeveral fen called <hi>Garnars,</hi> abutting upon the common fen called <hi>Weſtmoore,</hi> and the river of <hi>Wellney.</hi> Out of the ſeveral fen-grounds, now, or late of <hi>Henry Milſop</hi> Gent. twenty Acres. Out of the ſeveral fen called Arch-Deacon Croſt, at the Weſt-part thereof, abutting upon the ſaid ſeve<g ref="char:EOLhyphen"/>ral fen-ground of <hi>Thomas Milſop,</hi> and the ſaid river of <hi>Wellney.</hi> Out of the ſeveral fen-ground called <hi>Cades</hi> Croſt, five Acres, two Roods and twelve Perches, at the North-weſt ſide of the ſame ground. Out of the ſeveral fen-ground of <hi>Thomas Crab,</hi> five Acres, two Roods, and twelve Perches at the North-weſt ſide therof. Out of the ſeveral Fen-ground of <hi>Roger Collin,</hi> three acres, one Rood and ten Perches at the South-eaſt-ſide thereof. Out of the ſeveral fen-ground of <hi>John Smith,</hi> ad<g ref="char:EOLhyphen"/>joyning to the Vicarage Croſt, one Acre, three Roods, and twenty five Perches, at the North-weſt ſide of the ſame ground. Out of the adjoyning ſeveral fen-ground, now, or late of <hi>John Horne,</hi> one Acre, three Roods, and twenty five Perches at the South-eaſt ſide of the ſame ground. Out of the ſeveral fen-ground of <hi>John Hand,</hi> foure Acres, one Rood, and thirty Perches, at the North-weſt ſide thereof. Out of the adjoyning ſeveral fen-ground of Widow <hi>Alderton,</hi> foure Acres, one Rood, and thirty Perches at the South-eaſt ſide thereof. Out of the ad<g ref="char:EOLhyphen"/>joyning ſeveral fen-ground of <hi>William Cooke,</hi> three Acres and twenty Perches, at the North-weſt ſide thereof. Out of the ſeveral Fen-ground now, or late of <hi>Thomas Wadley,</hi> three Roods, and twenty Perch<g ref="char:EOLhyphen"/>es
+<pb n="15" facs="tcp:176002:9"/> at the Eaſt-ſide thereof. Out of the ſeveral Fen-ground of <hi>Willi<g ref="char:EOLhyphen"/>am Goates,</hi> lying near <hi>Cambridge</hi> Croft, one Acre and thirty two Perches at the North-end thereof. Out of the adjoyning ſeveral ground of <hi>Andrew Neale,</hi> three Roods and twenty Perches at the North end thereof. Out of the adjoyning ſeveral ground of <hi>Thomas Crabbe,</hi> one Acre and twenty Perches at the Weſt end thereof, next <hi>VVellney</hi> river. Out of the ſeveral Fen-ground of <hi>John Vernell,</hi> one Acre and fifteene Perches at the North-ſide thereof. Out of the ſeveral Fen-ground of <hi>John Day</hi> adjoyning unto <hi>Bell Croft,</hi> five Acres, three Roods, and twen<g ref="char:EOLhyphen"/>ty five Perches at the South-ſide thereof. Out of the ſeveral Fen-ground late of <hi>Jane Chambers,</hi> two Acres, two Roods, and thirty Perches at the Eaſterne corner thereof. Out of the adjoyning ſeveral Fen-ground of <hi>VVilliam Smith,</hi> one Acre, three Roods, and fifteene Perches at the South-ſide thereof. Out of the ſeveral Fen-ground of <hi>George Wilſon,</hi> one Acre, three Roods and fifteene Perches at the North-ſide thereof. Out of the adjoyning ſeveral Fen-ground now or late of <hi>John Payne,</hi> one Acre, two Roods, and thirty Perches at the South-ſide of the ſame ground. Out of the ſeveral Fen-ground of <hi>John Goates</hi> lying near the grounds of <hi>Apſhall</hi> Farme, three Acres, one Rood and thirty Perches, at the North-weſt ſide thereof. Out of the adjoyning ſeveral Fen-ground of <hi>Robert Aſpland,</hi> one Acre, two Roods, and twenty five Perches at the South-eaſt ſide thereof. Out of the ad<g ref="char:EOLhyphen"/>joyning ſeveral Fen-ground now, or late of <hi>Thomas Milſop,</hi> one Acre two Roods, and twenty five Perches at the North-weſt ſide thereof. Out of the ſeveral Fen-ground now, or late of <hi>Robert Groom,</hi> two Acres, one Rood, and twenty five Perches, at the South-eaſt ſide thereof. Out of the ſeveral Fen-ground of Sir <hi>Miles Sandys</hi> Knight and Baronet, ſix acres and fifteen perches at the North end of the ground adjoyning to <hi>New-dike.</hi> Out of the ſeveral Fen-ground of <hi>John Milſop,</hi> ſix acres, one rood, and ten perches at the South-Eaſt ſide there<g ref="char:EOLhyphen"/>of, abutting upon <hi>New-dike.</hi> Out of the ſeveral Fen-ground of <hi>Henry Meadowes,</hi> ſeven acres, two roods, and thirty perches at the Weſt-ſide of the ſame ground. Out of the ſeveral fen ground now or late of <hi>Robert Alexander,</hi> one acre, two roods and twenty perches at the Eaſt-ſide thereof. Out of the adjoyning ſeveral fen-ground of <hi>William Haukins,</hi> two acres and ten perches at the Weſt-ſide thereof. Out of the ſeveral fen-ground, now, or late of <hi>John Crabbe,</hi> adjoyning to the ground called the Common Acre, three acres at the North end thereof. Out of the ſeveral Fen-ground, now, or late of <hi>Thomas Milſop</hi> the elder, ad<g ref="char:EOLhyphen"/>joyning to Arch-Deacon Croft, three acres, and one rood at the South-end of the ſame ground, abutting upon <hi>Wellney</hi> river. Out of the ſeve<g ref="char:EOLhyphen"/>ral fen-ground now, or late of <hi>Richard White,</hi> adjoyning to the fore-mentioned ground of <hi>Thomas Milſop,</hi> one acre, one rood and fifteen perches, at the South-eaſt corner of the ſame ground next <hi>Wellney</hi> river. Out of the ſeveral fen-ground now, or late of <hi>William Wright,</hi> three acres and three roods on the Weſt-ſide thereof, adjoyning to the ground belonging to <hi>Wellney</hi> Chappel. Out of the ſaid ſeveral fen-ground belonging to <hi>Wellney</hi> Chappel, one acre at the Eaſt-corner thereof. Out of the adjoyning ſeveral Fen-ground of <hi>Chriſtopher Clark,</hi> two acres and three roods at the Weſt-ſide thereof. Out of the ſeveral Fen-ground
+<pb n="16" facs="tcp:176002:10"/> now, or late of <hi>Nicholas Veres,</hi> one acre, two roods and twenty perches at the South-eaſt ſide of the ſame ground. Out of the ſeveral Fen-ground now, or late of <hi>Richard Mares,</hi> one acre, one rood, and twenty perches at the Weſt-ſide thereof. Out of the ſeveral Fen-ground now, or late of <hi>Thomas Sharp,</hi> three acres two roods, and twen<g ref="char:EOLhyphen"/>ty perches, at the Weſt-ſide thereof. Out of the ſeveral fen-ground of <hi>Thomas Wilſon,</hi> near adjoyning to the Fen-ground, called the hun<g ref="char:EOLhyphen"/>dred acres, three acres and one rood at the Eaſt-ſide rhereof. Out of the adjoyning Fen-ground now, or late of <hi>Thomas Milſop,</hi> nine acres, one rood, and twelve perches at the Weſt-ſide thereof. Out of the ſe<g ref="char:EOLhyphen"/>veral fen-ground of <hi>Richard Ward,</hi> three acres at the Eaſt-part there<g ref="char:EOLhyphen"/>of. Out of the ſeveral ground of <hi>Robert Lukin</hi> Eſquire, being part of the ground called the hundred acres, fourteen acres at the Weſt-ſide thereof. Out of the ſeveral ground of Widow <hi>Crab,</hi> being alſo part of the ground called the hundred acres ſixteen acres and three roods at the weſt-ſide thereof. Out of the ſeveral fen-ground of <hi>John Cole</hi> Gent. adjoyning to the ground called <hi>Garners,</hi> ſeven acres two roods, and ten perches at the Eaſt-part thereof, abutting upon <hi>Wellney</hi> river. Out of the ſeveral fen-ground now, or late of <hi>William Johnſon,</hi> foure acres and two roods, at the North-weſt corner thereof, abutting up<g ref="char:EOLhyphen"/>on <hi>Wellney</hi>-river. Out of the ſeveral Fen-ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Goats</hi> Yeoman, adjoyning to the common acre, three roods, and ten perches at the North-weſt ſide thereof. Out of the ſeveral Fen-ground of <hi>John Day,</hi> adjoyning to the common acre, one acre, two roods and twenty perches, at the South-weſt end thereof. Out of the ſeveral Fen ground of <hi>Thomas Plimme</hi> and <hi>Thomas Clarke,</hi> one acre and ten perches at the South-end thereof, next the Wood grounds of <hi>Apſhall</hi> Farm. Out of the ſeveral ground of <hi>Samuel Kinſwick,</hi> at the South-end thereof, one acre one rood, and ten perches. Out of the ſeveral ground now, or late of <hi>Thomas Paynter,</hi> one acre, two roods, and twelve perches at the South-weſt end thereof. Out of the ſeveral Fen ground of <hi>John Hand,</hi> adjoyning unto the Fen-ground called <hi>Apſhall</hi> aforeſaid, one acre one rood, and twenty perches at the South-weſt end thereof. Out of the ſeveral Fen ground now, or late of <hi>Thomas Boughton,</hi> three roods and twenty perches, at the North-weſt part of the ſame ground. Out of the ſeveral fen ground now, or late of <hi>John Glaſier,</hi> one acre and thirty five perches, at the North-weſt end thereof. Out of the ſeveral Fen ground now, or late of <hi>Thomas Milſop,</hi> called <hi>Whinne-buſh</hi> Croft, three acres and twenty perches at the North-weſt part thereof. And out of the ſeveral ground, called <hi>Cambridge</hi>-Crofts, eight acres, two roods, and ten perches at the Weſt-ſide thereof, abutting upon <hi>Wellney</hi>-river<g ref="char:punc">▪</g> and the <hi>Mare</hi> Fen.<seg>0700 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground, of, or belonging to <hi>Thomas Gibbon</hi> Eſquire, lying between the common Fen called <hi>Whelpmoore,</hi> and the river of <hi>Brandon,</hi> one hundred and ninety Acres at the South-end thereof, abutting upon the fenne grounds called <hi>Redmore</hi> grounds. <seg>0190 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Redmore grounds.</label>
+                  <item>
+                     <p> Out of the ſeveral fen grounds called <hi>Redmore</hi> grounds, lying between the ſaid common fen, called <hi>Whelpmoore</hi> and the river of <hi>Brandon,</hi> one hundred twenty ſix acres at the South-part of the ſame grounds, abut<g ref="char:EOLhyphen"/>ting
+<pb n="17" facs="tcp:176002:10"/> upon the ſeveral fen ground of <hi>William Heveningham</hi> Eſquire, and the ſaid river of <hi>Brandon.</hi>
+                        <seg>0126 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Downham in the Iſle.</label>
+                  <item>
+                     <p> Out of the common fen grounds, of, or belonging to <hi>Downham</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> called weſt-fen, three hundred eighty eight acres and two roods, abutting South-weſt<g ref="char:EOLhyphen"/>ward upon the common fen grounds called <hi>Pyemoore,</hi> and <hi>Aſhwell-Moore.</hi> 
+                        <seg>0388 2 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen ground of <hi>John Carter,</hi> lying near <hi>Downham Hive,</hi> one acre and two roods at the North-eaſt corner thereof. <seg>0001 2 00</seg>
+                     </p>
+                  </item>
+                  <label>Weſtmoore.</label>
+                  <item>
+                     <p> Out of the great intercommon Fen, called <hi>Weſtmoore</hi> and <hi>Cranmoore,</hi> in the ſaid Iſle of <hi>Ely</hi> and County of <hi>Cambridge,</hi> five thouſand Acres, (that is to ſay) three thouſand acres on the South-ſide of <hi>Bedford</hi> river, bounded North-weſtward with the ſame river Eaſtward, with <hi>Well<g ref="char:EOLhyphen"/>ney</hi> river, and the ſeveral fen grounds of <hi>Littleport</hi> and <hi>VVellney,</hi> adjoyn<g ref="char:EOLhyphen"/>ing to the ſaid river of <hi>VVelney,</hi> and weſtward with <hi>Oxewillow</hi> Load and the reſidue being two thouſand acres out of that part of the ſaid Fen, that lieth on the North ſide of <hi>Bedford</hi> river aforeſaid, abutting upon the ſaid river and <hi>Oxewillow</hi> Load aforeſaid. <seg>5000 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Coveney.</label>
+                  <item>
+                     <p> Out of the common fen ground called <hi>Hale</hi> fen, lying in or near <hi>Cove<g ref="char:EOLhyphen"/>ney</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> one hundred and eighty acres, abutting Eaſtward upon the hard lands of <hi>Coveney,</hi> and the gravel-way leading to <hi>Coveney,</hi> and on all other patts, upon the re<g ref="char:EOLhyphen"/>ſidue of the ſame fen. <seg>0180 0 00</seg>
+                     </p>
+                     <p>Out of one other common fen ground, lying in or near <hi>Coveney</hi> a<g ref="char:EOLhyphen"/>foreſaid, called <hi>Aſhwell-Moore</hi> or <hi>Sedge</hi> fen, foure hundred twenty three acres, abutting Eaſtward upon <hi>Pye-Moore</hi> VVeſtward, upon the ſeveral fen ground of <hi>Coveney,</hi> called <hi>Hale</hi> fen, and Northward upon VVeſt-fen in <hi>Downham</hi> aforeſaid. <seg>0423 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen grounds, of, or belonging to <hi>Coveney</hi> afore<g ref="char:EOLhyphen"/>ſaid, called the great Dams, one hundred fifty ſeven acres, three roods and ten perches, (that is to ſay,) out of the ſeveral fen ground of <hi>John Davis</hi> three acres, two roods and ten perches at the North-weſt end thereof. Out of the ſeveral fen ground of <hi>Thomas VVhine Junior,</hi> three acres, one rood, and twenty foure perches at the South-eaſt end thereof. Out of the ſeveral Fen-ground of <hi>VVilliam Smith,</hi> two acres, three roods and thirty ſix perches at the South-weſt ſide thereof. Out of the ſeveral ground now, or late of <hi>Thomas VVatſon,</hi> three acres, three roods and twenty perches at the North-weſt end thereof. Out of the ſeveral fen ground now, or late of <hi>John VVatſon,</hi> two acres, three roods, and thirty perches at the North-weſt end thereof. Out of the ſeveral fen ground of <hi>Joane Pope</hi> Widow<g ref="char:punc">▪</g> ten acres, two roods, and ten perches at the North-weſt end thereof. Out of the ſeveral fen ground of <hi>John Lin<g ref="char:EOLhyphen"/>wood,</hi> eighte<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>es and fifteen perches at the North-weſt end thereof. Out of the ſeveral fen ground of <hi>Richard Gooday,</hi> ſeventeen acres, three roods and ten perches at the North-weſt end thereof. Out of the ſe<g ref="char:EOLhyphen"/>veral fen ground of <hi>Thomas Smith,</hi> three acres and one rood at the Eaſt-corner thereof. Out of the ſeveral fen ground of <hi>John Smith,</hi> three acres and thirty five perches at the South-eaſt corner thereof. Out of the ſeveral fen ground of <hi>Thomas Winter,</hi> adjoyning to <hi>Coveney</hi> Load, nine acres at the North-eaſt ſide thereof. Out of the ſeveral Fen
+<pb n="18" facs="tcp:176002:11"/> ground of <hi>Robert Matthewes,</hi> eight acres, three roods and ten perc<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> at the North-ſide thereof. Out of the ſeveral fen ground of <hi>Humber<g ref="char:EOLhyphen"/>ſton March</hi> Eſquire, abutting upon <hi>Coveney</hi> Load, and the way leading unto <hi>Biall</hi> Fen, eighteen acres and twenty perches at the South-eaſt end thereof. One entire fen ground of <hi>William Sharp</hi> Gent. lying between <hi>Biall Fen,</hi> and the way leading from <hi>Biall Fen</hi> to <hi>Cove<g ref="char:EOLhyphen"/>ney,</hi> containing ſixteen acres and two roods. Out of the ſeveral Fen ground of <hi>Peter Rider,</hi> one acre and thirty perches at the South-weſt end thereof. Out of the ſeveral Fen ground of <hi>John VVhinne,</hi> three acres, two roods and ten perches at the Eaſt-end thereof. One entire ſeveral Fen ground, lying between <hi>Bial</hi> Fen, and the ground of <hi>Robert Andrewes,</hi> containing fourteen acres and two roods. And out of the ſeveral Fen ground of <hi>Peter Andrewes,</hi> ſixteen acres, one rood, and thirty perches at the Eaſt-end thereof.<seg>0157 3 10</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds, of, or belonging to <hi>Coveney</hi> afore<g ref="char:EOLhyphen"/>ſaid, called the New dams, fifty five acres, two roods, and fifteen perches, (that is to ſay) out of the ſeveral fen-ground of <hi>Francis Sanderſon,</hi> two acres and one Rood at the North end thereof. Out of the ſeveral fen-ground of <hi>Mary Ruſden,</hi> one acre, one rood, and fifteen perches at the North end thereof. One entire ſeveral fen-ground of <hi>Robert Mat<g ref="char:EOLhyphen"/>thewes</hi> abutting Weſtward upon the hard lands of <hi>Coveney,</hi> containing fourteen acres. Out of the ſeveral Fen-ground of <hi>John Cocke,</hi> three acres at the Eaſt end thereof. Out of the ſeveral Fen-ground called the Town-damme, three acres at the Eaſt end thereof. And three entire ſeveral Fen-grounds of <hi>William Sharp</hi> Gent. lying together, and abut<g ref="char:EOLhyphen"/>ting upon <hi>Aſhwell</hi> Moore, and the hard lands of <hi>Coveney,</hi> containing thirty two acres. <seg>0055 2 15</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground, of, or belonging to <hi>Coveney</hi> afore<g ref="char:EOLhyphen"/>ſaid, called <hi>Hall</hi> fen, thirty Acres, three roods, and thirty perches at the Eaſt-ſide thereof, abutting upon <hi>Aſhwell</hi> Moore. <seg>0030 3 30</seg>
+                     </p>
+                     <p>Out of the ſeveral fen-grounds, of, or belonging to <hi>Coveney</hi> afore<g ref="char:EOLhyphen"/>ſaid, called <hi>Block</hi>-moores, nineteene acres, one rood, and five perches (that is to ſay) out of the three ſeveral fen-grounds of <hi>John VVatſon, Agnes VVatſon,</hi> and <hi>Hellen VVatſon,</hi> one rood apiece at the North ends of the ſame grounds. Out of the ſeveral fen-ground of <hi>Moſes VVhite<g ref="char:EOLhyphen"/>cake</hi> three roods and thirty four perches at the North-weſt end thereof. Out of the ſeveral fen-ground of <hi>Iohn Gaveſtock,</hi> three roods and thir<g ref="char:EOLhyphen"/>ty perches at the North-weſt end thereof. Out of the ſeveral fen-ground of <hi>Mary Allen,</hi> three roods and thirty five perches at the South-weſt ſide thereof. Out of the two ſeveral fen-grounds of <hi>Iohn Kaye</hi> and <hi>Iohn Hill</hi> Clerk, one rood, and thirty eight perches apiece at the North-weſt ends of the ſame grounds. Out of the ſeveral fen-ground of <hi>Robert Andrewes,</hi> one acre and two roods at the No<gap reason="illegible" resp="#MURP" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>ſt end there<g ref="char:EOLhyphen"/>of. Out of the ſeveral fen-ground of <hi>Henry Biddle,</hi> one acre, two roods, and ten perches at the North-end thereof. Out of the ſeveral fen-ground of <hi>Katherine VVinter,</hi> five acres and thirty perches at the weſt-ſide thereof. Out of the ſeveral Fen ground of <hi>Elizabeth Bar<g ref="char:EOLhyphen"/>ber,</hi> three acres, three roods and ten perches at the weſt-ſide thereof. Out of the ſeveral Fen ground of <hi>Richard Gunton,</hi> one rood and thirty foure perches at the North-end thereof. Out of the ſeveral Fen ground
+<pb n="19" facs="tcp:176002:11"/> of <hi>Thomas Meakes,</hi> one rood, and twenty ſix perches at the North-end thereof. And one entire Fen of <hi>William Sharp</hi> Gent. adjoyning Eaſt-ward upon the hard lands of <hi>Coveney,</hi> containing one acre and three roods.<seg>0019 1 05</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds, of, or belonging to <hi>Coveney</hi> afore<g ref="char:EOLhyphen"/>ſaid, called the Pingles, thirteen acres, one rood, and twenty perches, (that is to ſay) one entire ſeveral Fen ground of <hi>Thomas Winter,</hi> lying between the hard lands of <hi>Coveney</hi> and <hi>Coveney</hi> Load, containing e<g ref="char:EOLhyphen"/>leven acres. And out of the ſeveral Fen grounds now, or late of <hi>Thomas Hobbie</hi> and <hi>Francis Sanderſon,</hi> two acres, one rood, and twenty perches at the North-weſt end thereof. <seg>0013 1 20</seg>
+                     </p>
+                  </item>
+                  <label>Biall Fen.</label>
+                  <item>
+                     <p> Out of the great intercommon Fen ground, called <hi>Biall</hi> Fen, in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> two thouſand and two hun<g ref="char:EOLhyphen"/>dred acres, (that is to ſay) two thouſand acres, abutting upon the North-weſt ſide of <hi>Bedford</hi> river, and weſtward upon <hi>Langwood</hi> Fen, and <hi>Wicham</hi> Mead lands. And South-weſtward upon <hi>Gaule</hi> Fen in <hi>Mepall;</hi> and two hundred acres, abutting upon the South-eaſt ſide of <hi>Bedford</hi> river, and <hi>Oxwillow</hi> Load. <seg>2200 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Maney.</label>
+                  <item>
+                     <p> Out of the common Fen grounds, of, or belonging to <hi>Maney</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> called the Dams, abutting upon <hi>Stoney</hi> Fen, two hundred and thirty acres at the weſt-ſide thereof, abutting upon <hi>Twiſle</hi> Load. <seg>0230 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds, of, or belonging to <hi>Maney</hi> afore<g ref="char:EOLhyphen"/>ſaid, twenty acres, (that is to ſay) out of the ſeveral Fen grounds of <hi>Robert Neale,</hi> adjoyning to the Dams of <hi>Maney</hi> aforeſaid, ten acres, abutting upon <hi>Twiſle</hi> Load, and <hi>Stoney</hi> Fen in <hi>Dodington,</hi> Out of the ſeveral Fen ground of <hi>Thomas Siſſon,</hi> lying next <hi>Cranmoore,</hi> three acres at the Eaſt-ſide thereof. Out of the ſeveral Fen ground of <hi>Ri<g ref="char:EOLhyphen"/>chard Wellbie,</hi> thirty ſix perches at the North-end thereof. Out of the ſeveral Fen ground of <hi>George Wright,</hi> one rood and ſix perches at the North-end thereof. Out of the ſeveral Fen ground of <hi>Nathaniel Thinne,</hi> two Roods at the North-end thereof. Out of the ſeveral Fen ground of <hi>John Siſſon,</hi> two roods and twenty perches at the South-cor<g ref="char:EOLhyphen"/>ner thereof. Out of the ſeveral Fen ground of <hi>William Jenes,</hi> one rood and thirty perches at the Eaſt-corner thereof. Out of the ſeveral Fen ground of <hi>Oliver Galloway,</hi> two roods and thirty perches at the South-end thereof. Out of the ſeveral Fen ground of <hi>Jeremy Freeman,</hi> one rood and thirty foure perches at the Weſt end thereof. Out of the ſeveral <hi>Holt</hi> Fen grounds of <hi>John Goulden,</hi> two roods and twenty perches at the South-end thereof. Out of the ſeveral <hi>Holt</hi> Fen ground of <hi>John Hill,</hi> twenty perches at the South-end thereof. Out of the ſeveral Fen ground of <hi>William Harriſon,</hi> two roods at the South-end thereof. And out of the ſeveral Fen ground of <hi>VVilliam Free man,</hi> two acres, two roods, and foure perches, at the South-eaſt ſide thereof. <seg>0020 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Wichford.</label>
+                  <item>
+                     <p> Out of the common Fen ground, called <hi>Pyemoore</hi> near <hi>Wichford,</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> one hundred fifty two acres, abutting upon <hi>Downham</hi> weſt fen, and <hi>Aſhwell</hi> Moore. <seg>0152 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Gruntey-Fen.</label>
+                  <item>
+                     <p> Out of the common Fen ground called <hi>Gruntey</hi> Fen in the ſaid Iſle of <hi>Elie,</hi> and County of <hi>Cambridge,</hi> foure hundred twenty ſix acres,
+<pb n="20" facs="tcp:176002:12"/> abutting North-weſtward upon the hard lands, and on all other parts, encompaſſed with the reſidue of the ſaid Fen. <seg>0426 0 00</seg>
+                     </p>
+                     <p>Out of the common Fen ground, of. or belonging to <hi>Wicham</hi> in the ſaid Iſle of <hi>Elie,</hi> and County of <hi>Cambridge,</hi> called <hi>Widdon,</hi> ten acres, abutting weſtward upon the ſeveral Fen-grounds of <hi>Mepall,</hi> cal<g ref="char:EOLhyphen"/>led <hi>Widdon,</hi> and Northward upon the ſeveral Fen-grounds of <hi>Wicham,</hi> called <hi>Cawcroft.</hi> 
+                        <seg>0010 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds of <hi>Wicham</hi> called <hi>Cawcroft,</hi> conſiſt<g ref="char:EOLhyphen"/>ing of the Lots or Doles of divers perſons, twentie nine Acres and two Roods, as the ſame is Lockſpitted and ſet out at the North end of the ſame Lots next <hi>Biall</hi> Fen. <seg>0029 2 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds of <hi>Wicham</hi> aforeſaid, called <hi>Wicham</hi>-Mead-lands, thirty Acres and two Roods (that is to ſay) out of the ſe<g ref="char:EOLhyphen"/>veral Fen-grounds of <hi>George Peacock, Thomas Gooday,</hi> and <hi>John Merell,</hi> three Acres and one Rood, as the ſame is Lockſpitted, divided, and ſet out at the Weſt-end of the ſame grounds abutting upon <hi>Mepall Gaul</hi>-Fen. Out of the Lots or Doles lying between the laſt mentioned grounds, and the Lot or Dole of <hi>John Belwood,</hi> belonging to divers perſons, twelve acres, three roods, and ten perches, at the North-weſt-end thereof, abutting upon <hi>Block</hi>-Fen. Out of the Lots or Doles ly<g ref="char:EOLhyphen"/>ing between the great lot of <hi>George Peacock,</hi> and the old Darie-houſe of <hi>John Merrell,</hi> belonging unto divers perſons, ſeven acres, one rood, and thirty perches at the South-end thereof, abutting upon <hi>Biall</hi> Fen. Out of the two lots of the ſaid <hi>John Merell</hi> and of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Chap<g ref="char:EOLhyphen"/>man</hi> Gent. called North doles, ſeven acres, as the ſame is lock-ſpitted, divided, and ſet out, at the North-ends of the ſame doles, abutting up<g ref="char:EOLhyphen"/>on <hi>Langwood</hi> Fen. <seg>0030 2 00</seg>
+                     </p>
+                  </item>
+                  <label>Mepall.</label>
+                  <item>
+                     <p> Out of the common Fen ground, of, or belonging to <hi>Mepall,</hi> in the ſaid Iſle of <hi>Elie,</hi> and County of <hi>Cambridge,</hi> called <hi>Gaule</hi> Fen, fifty three acres, abutting upon the North-ſide of <hi>Bedford</hi> river, and upon <hi>Biall</hi> Fen. <seg>0053 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds, of, or belonging to <hi>Mepall</hi> afore<g ref="char:EOLhyphen"/>ſaid, called <hi>Widdon,</hi> eight acres (that is to ſay) out of the ſeveral Fen ground of <hi>Robert Brown,</hi> two roods and two perches at the North-end thereof. Out of the ſeveral Fen ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Clinch,</hi> lying next but one to the ſaid ground of <hi>Robert Brown,</hi> three roods and eighteen perches at the North-eaſt end thereof, next <hi>Wicham</hi> Severals. Out of the adjoyning ſeveral Fen ground of <hi>Thomas Whinne,</hi> three roods and ſeventeen perches at the North-eaſt end thereof. Out of the ſeveral fen ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Bradford</hi> Gent, one rood and thirty five perch<g ref="char:EOLhyphen"/>es at the Eaſt end thereof. Out of the ſeveral fen ground of <hi>William Smith,</hi> two roods and twelve perches at the Eaſterne end thereof, Out of the adjoyning ſeveral fen ground of <hi>Thomas Aſpland,</hi> one acre at the Eaſtern end thereof. Out of the ſeveral fen grouod of <hi>John Phippe,</hi> two Roods and two Perches at the Eaſterne end thereof. Out of the ſeveral Fen-ground of <hi>George Aſpland,</hi> one Rood, and thirty four Perches at the Eaſt-end thereof. Out of the ſeveral Fen-ground in the occupation of widow <hi>Smith,</hi> one Rood and thirty Perches at the Eaſt-end thereof. Out of the ſeveral Fen-ground of <hi>Edmund Aſpland,</hi> one
+<pb n="21" facs="tcp:176002:12"/> Rood and thirty Perches at the Eaſt end thereof. Out of the ſeveral Fen-ground of <hi>Iohn Addams,</hi> three Roods and eight Perches at the Eaſt end thereof. Out of the ſeveral Fen-ground of <hi>Iohn Whiting,</hi> two Roods and eight perches at the Eaſt-end thereof. And out of the ſeveral Fen-ground of <hi>William Whinne,</hi> two Roods and four Perches at the Eaſt-end thereof. <seg>0008 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds of <hi>Mercy Carter</hi> Widow, belonging to <hi>Mepall</hi> aforeſaid, twenty five Acres at the North-end of the ground called the <hi>Holts.</hi> 
+                        <seg>0025 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground in <hi>Mepall</hi> aforeſaid, called <hi>Fur</hi>-fen, twelve Acres, three roods, and four Perches at the South-ſide thereof, abutting upon <hi>Bedford</hi> river. <seg>0012 3 04</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Gederel</hi> Gent. lying be<g ref="char:EOLhyphen"/>tween <hi>Gaul</hi>-Fen and <hi>Wicham</hi>-Mead-lands, ſix Acres and two Roods at the North-weſt end thereof. <seg>0006 2 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground of <hi>John Phippe</hi> lying in <hi>Mepall</hi> afore<g ref="char:EOLhyphen"/>ſaid, abutting upon <hi>Block</hi>-Fen, one Acre, and twenty two Perches at the South-end thereof. <seg>0001 0 22</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Wigmore</hi> Gent. lying in <hi>Mepall</hi> aforeſaid, and joyning unto <hi>Block</hi>-Fen, one Acre, two Roods, and thirty Perches at the North-eaſt end thereof. <seg>0001 2 30</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground of <hi>Thomas Aſpland,</hi> lying in <hi>Mepall</hi> aforeſaid, adjoyning alſo unto <hi>Block</hi>-Fen, one Acre, and one Rood, and twenty four Perches at the North end thereof. <seg>0001 1 24</seg>
+                     </p>
+                  </item>
+                  <label>Mepall ſe<g ref="char:EOLhyphen"/>verals.</label>
+                  <item>
+                     <p>Out of the ſeveral or late incloſed Fen grounds of <hi>Mepall</hi> afore<g ref="char:EOLhyphen"/>ſaid, called Block Fen, or Block Moore, lying on the North-ſide of <hi>Bedford</hi> river, one hundred thirty nine acres and two roods, (that is to ſay) out of the grounds of <hi>Thomas Whinne,</hi> and divers others, lying to<g ref="char:EOLhyphen"/>gether undivided, adjoyning unto North Fen in <hi>Sutton,</hi> fourteen acres, three roods and five perches, abutting upon <hi>Bedford</hi> river aforeſaid. One entire Fen ground of <hi>John Whinne,</hi> abutting upon <hi>Sutton</hi> North-Fen, containing one acre and two roods. Out of the ſeveral Fen grounds of <hi>Thomas Aſpland, John Adams, James Adcroft, Richard Hold<g ref="char:EOLhyphen"/>ing, William Bird,</hi> and Widow <hi>Ratham,</hi> adjoyning unto <hi>Sutton</hi> North-Fen, eleven acres, three roods and ten perches, as the ſame is propor<g ref="char:EOLhyphen"/>tionally ſet out and lockſpitted, at the Weſt-ends of the ſame grounds, next <hi>Sutton</hi> North-Fen aforeſaid. Out of the ſeveral Fen ground of <hi>Thomas Aſpland</hi> the elder, adjoyning to <hi>Sutton</hi> North Fen, three acres, and thirty perches at the North-ſide thereof. Out of the ſeveral Fen ground of Widow <hi>Brown,</hi> adjoyning upon <hi>Sutton</hi> North-Fen, two acres, two roods, and ten perches at the Weſt-end thereof. Out of the ſeveral Fen grounds, lying between the ſaid ground of Wi<g ref="char:EOLhyphen"/>dow <hi>Browne,</hi> North Fen in <hi>Sutton,</hi> the grounds of <hi>Chattereſſe,</hi> and the way in <hi>Mepall</hi> block Fen, ſixty acres, three roods, and thirty foure perches, proportionally ſet out, lockſpitted and divided from every of the ſaid grounds. Out of the ſeveral Fen ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Wigmore</hi> Gent. abutting upon <hi>Bedford</hi> river, and the way in block Fen, one acre a<g ref="char:EOLhyphen"/>butting upon <hi>Bedford</hi> river aforeſaid. Out of the ſeveral Fen ground of <hi>Mercy Carter</hi> Widow, lying between <hi>Fur</hi> Fen, and the way in block Fen. eighteen acres and fifteen perches at the North-end of the ſame
+<pb n="22" facs="tcp:176002:13"/> grounds. Out of the ſeveral Fen ground of <hi>George Wabie,</hi> adjoyning unto <hi>Fur</hi> Fen, three acres at the Eaſt-end thereof. Out of the ſeveral Fen ground of <hi>George Aſpland,</hi> adjoyning upon two Fen grounds of Widow <hi>Ratham,</hi> two acres, three roods and thirty two perches. Out of the ſeveral Fen ground of <hi>Thomas Whinne,</hi> lying between the grounds of <hi>Richard Cooper</hi> and <hi>John Adams,</hi> three acres at the weſt-end of the ſame ground. Out of the ſeveral Fen ground of <hi>John Adams,</hi> lying between the grounds of <hi>Thomas Whinne</hi> and <hi>William Whinne,</hi> three acres and ten perches at the North-ſide thereof. Out of the next adjoyning ſeveral Fen ground, now, or late of <hi>William Whinne,</hi> three acres and one Rood at the Eaſt-end thereof. Out of the next ad<g ref="char:EOLhyphen"/>joyning ſeveral Fen ground now, or late of <hi>Th mas Whinne,</hi> three acres, two roods and eighteen perches. And out of the ſeveral Fen grounds now, or late of <hi>Richard Cooper,</hi> adjoyning upon block Fen in <hi>Chatereſſe,</hi> ſix acres, two roods, and thirty ſix perches at the North-ſide thereof. <seg>0139 2 00</seg>
+                     </p>
+                  </item>
+                  <label>Sutton in the Iſle.</label>
+                  <item>
+                     <p>Out of the ſeveral Fen-ground called <hi>Middle</hi>-Moore, lying in <hi>Sutton</hi> in the ſaid Iſle of <hi>Ely</hi> and County of <hi>Cambridge,</hi> thirty ſeven Acres abutting upon the South-ſide of <hi>Bedford</hi> river. <seg>0037 0 00</seg>
+                     </p>
+                     <p>Out of the Fen-grounds in <hi>Sutton</hi> aforeſaid, called North-Mead-lands and South-Mead-lands, one hundred ſeventy five Acres abutting upon <hi>Middle</hi>-Moore aforeſaid, and upon the North-ſide of the ſaid New-ri<g ref="char:EOLhyphen"/>ver, called <hi>Bedford</hi> river. <seg>0175 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground of <hi>Perrey Jederel</hi> Gent. lying in <hi>Sutton</hi> aforeſaid, near the place called <hi>Sutton Gravell,</hi> and encompaſſed with divers Oſier Holts, one acre, and one rood at the Eaſt-end thereof. <seg>0001 1 00</seg>
+                     </p>
+                     <p>Out of foure other ancient ſeveral Fen grounds in <hi>Sutton</hi> aforeſaid, lying near <hi>Erith</hi> Cauſey, called Cocks neſts, foure acres and three roods, (that is to ſay) out of the grounds belonging to the Deane and Chap<g ref="char:EOLhyphen"/>ter of <hi>Elie,</hi> one acre, two roods, and twenty perches at the South-ſide thereof. Out of the ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Drury</hi> Gent. one acre, two roods and ten perches at the South-ſide thereof. Out of the ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Carter</hi> Gent. three roods and twenty perches at the South<g ref="char:EOLhyphen"/>ſide thereof. And out of the grounds of <hi>John Taylour,</hi> two roods and thirty perches at the South-ſide thereof. <seg>0004 3 00</seg>
+                     </p>
+                     <p>Out of the ſeveral or late incloſed Fen grounds, of, or belonging to <hi>Sutton</hi> aforeſaid, lying on both ſides of the ſaid new-River, called <hi>Bed<g ref="char:EOLhyphen"/>ford</hi> river, eight hundred ſixty and two Acres (that is to ſay) Out of the ſeveral and late incloſed Fen-grounds lying on the North-ſide of the ſaid New-river, ſix hundred Acres <hi>(viz.)</hi> out of the ſeveral Fen-grounds called little <hi>Halwood,</hi> fourty three Acres, one Rood, and fif<g ref="char:EOLhyphen"/>teen Perches at the South part of the ſame ground, abutting upon the Fen-ground called <hi>North-Mead</hi>-lands, and the Weſt-water. Out of the ſeveral and late incloſed Fen-grounds lying in Weſt-Fen, on the North-ſide of <hi>Bedford</hi> river, being one hundred and ſixteen in number, two hundred fifty eight Acres, three Roods, and eleven Perches, as the ſame is alretdy by Lockſpits or ſmall Trenches proportionally ſet out and di<g ref="char:EOLhyphen"/>vided from every of the ſaid hundred and ſixteen ſeveral Fen-grounds. Out of the ſeveral and late incloſed Fen-grounds lying in Middle-Fen, on the North-ſide of the ſaid river, being eleven in number, twenty
+<pb n="23" facs="tcp:176002:13"/> three acres and eleven perches, as the ſame is alſo already by lockſpits or ſmall trenches proportionally ſet out and divided from every of the ſaid eleven ſeveral Fen grounds. Out of the ſeveral and late inclo<g ref="char:EOLhyphen"/>ſed Fen grounds, lying in North Fen, on the North ſide of the ſaid ri<g ref="char:EOLhyphen"/>ver, being ninety foure in number, two hundred ſeventy foure acres, three roods and three perches, as the ſame is alſo already by lock-ſpits or ſmall trenches proportionally ſet out and divided, from every of the ſaid ninety foure ſeveral Fen grounds. <seg>0600 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Sutton South of Bedford river.</label>
+                  <item>
+                     <p>Out of the ſeveral or late incloſed Fen grounds, of, or belonging to <hi>Sutton</hi> aforeſaid, lying on the South-ſide of <hi>Bedford</hi> river, being one hundred twenty two in number, two hundred ſixty two acres, as the ſame is already by lockſpits or ſmall trenches proportionally ſet out, ſevered and divided from every of the ſaid one hundred twenty two incloſed grounds, (that is to ſay) out of the incloſed Fen grounds called <hi>Tween</hi> ditches, being eight in number, fourteen acres, as the ſame is propor<g ref="char:EOLhyphen"/>tionally ſet out as aforeſaid. Out of the late incloſed grounds, called <hi>Many-mans</hi> doles, lying between <hi>Sutton</hi>-Cauſey, and the way leading to South-<hi>Mead</hi> lands, on the South-ſide of <hi>Bedford</hi> river, being foure in number, five acres, two roods, and twenty foure perches, as the ſame is alſo ſet out and divided as aforeſaid. Out of the late incloſed Fen grounds, lying between South-<hi>Mead</hi> lands, the ſaid grounds called <hi>Tween</hi> ditches, the ſaid grounds called <hi>Many-mens</hi> doles, <hi>Sutton, Gravell,</hi> the hard lands of <hi>Sutton,</hi> the grounds of divers men in South Fen, lying undivided, the ground of <hi>Robert Gunton,</hi> abutting upon <hi>Haddenham</hi> Fen, and the com<g ref="char:EOLhyphen"/>mon Fen ground of <hi>Haddenham,</hi> called ſmall Fen, being fifty ſeven in number, ninety one acres, one rood, and thirteen perches, as the ſame is alſo ſet out and divided as aforeſaid. Out of the late incloſed Fen grounds, lying between the Fen ground of <hi>Robert Peacock,</hi> abutting up<g ref="char:EOLhyphen"/>on <hi>Hadd lenham</hi> Common aforeſaid. The ſeveral Fen ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Jederell</hi> Gent. lying in South-Fen aforeſaid, the hard lands of <hi>Sutton,</hi> the common Fen grounds of <hi>Wentworth,</hi> and the ſaid common Fen of <hi>Haddenham,</hi> called ſmall Fen, being twelve in number, ſeventy two acres and ten perches, as the ſame is alſo ſet out and divided as afore<g ref="char:EOLhyphen"/>ſaid. Out of the late incloſed Fen grounds, lying between <hi>Sutton, Gravell,</hi> North-<hi>Mead</hi> lands, and the grounds in Weſt Fen, and called alſo <hi>Many</hi>-mans doles, being nine in number, thirteen acres, two roods and ſixteen perches, as the ſame is alſo ſet out and divided as aforeſaid. Out of the late incloſed Fen ground called the <hi>Berry</hi> lot, fourteen acres and ſeventeen perches, as the ſame is ſet out and divided as aforeſaid, at the South-weſt part thereof. Out of the late incloſed Fen grounds, lying in Weſt Fen, on the ſaid South-ſide of <hi>Bedford</hi> river, being fourteen in number, twenty two acres, as the ſame is alſo ſet out and divided as aforeſaid. Out of the late incloſed Fen grounds, lying between Weſt-Fen aforeſaid, the <hi>Gaultway.</hi> and the hard lands of <hi>Sutton,</hi> being foure in number, ſix acres and twenty perches, as the ſame is alſo ſet out and divided as aforeſaid. And out of the late incloſed Fen grounds, lying between the ſaid <hi>Gaultway,</hi> the ſaid new river called <hi>Bedford</hi> river, the grounds of <hi>Mepall</hi> and the hard lands of <hi>Sutton,</hi> being thirteen in num<g ref="char:EOLhyphen"/>ber, twenty three acres and twenty perches, as the ſame is alſo divided and ſet out as aforeſaid. <seg>0262 0 00</seg>
+                     </p>
+                     <pb n="24" facs="tcp:176002:14"/>
+                  </item>
+                  <label>Chartreſſe.</label>
+                  <item>
+                     <p> Out of the common Fen grounds, of, or belonging to <hi>Chartreſſe,</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> three thouſand eight hundred twenty ſix acres, (that is to ſay) out of the common Fen cal<g ref="char:EOLhyphen"/>led <hi>Normore,</hi> one thouſand ſix hundred and ten acres, abutting upon <hi>Dodington Hame,</hi> and the hard lands of <hi>Honey.</hi> Out of the common Fen, called <hi>Langwood</hi> Fen, nine hundred and twenty acres, adjoyning upon Block Fen &amp; the Fen called <hi>Wenney</hi> or <hi>Whinney</hi> Fen, and the Mead-lands of <hi>Wicham.</hi> Out of the ſaid common Fen ground, called <hi>Wenney</hi> or <hi>Whinney</hi> Fen, three hundred Acres abutting upon <hi>Langwood</hi>-Fenne and <hi>Block</hi>-Fen aforeſaid. Out of the common Fen-ground called <hi>Rough-Weſt-moore,</hi> five hundred ninety ſix Acres at the North part of the ſame Fen, abutting upon the Common Fen called <hi>Beeſelings,</hi> and the hard lands called <hi>VVilly</hi>-Heath. And out of the Common Fen-grounds cal<g ref="char:EOLhyphen"/>led <hi>Curfe</hi> and <hi>Gore,</hi> four hundred Acres, abutting upon <hi>Dodington Leame,</hi> and the Gravel way near the old Eaw, leading unto <hi>Dodington.</hi> 
+                        <seg>3826 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds, of, or belonging unto <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Wendy</hi> Eſquire, lying in <hi>Chartreſſe</hi> aforeſaid, being parcel of the ſeveral Fen, called <hi>Abbots Holwood,</hi> two hundred thirty foure acres, abutting upon the ſeveral grounds in <hi>Chartreſſe</hi> aforeſaid, called the old <hi>Haues,</hi> and upon the weſt-water. <seg>0234 0 00</seg>
+                     </p>
+                     <p>Out of the Fen ground in the ſeveral poſſeſſion of <hi>Beſteney Betts</hi> E<g ref="char:EOLhyphen"/>ſquire called block Fen, eighty nine acres and a half, abutting upon <hi>Wicham</hi> Mead-lands, and <hi>Langwood</hi> Fen aforeſaid. <seg>0089 2 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds in <hi>Chartreſſe</hi> aforeſaid, called the old <hi>Haues,</hi> one hundred and five acres, one rood and twenty perches as the ſame is already proportionally by lockſpits or ſmall trenches, divided and ſet out, (that is to ſay) out of the ground called the Town Meddow, two acres, two roods, and thirty three perches at the South-eaſt part thereof. Out of the ground of <hi>Beſteney Bruce,</hi> three acres, one rood, and thirty perches, at the North-eaſt part thereof. Out of the ground of Widow <hi>Matthewes,</hi> foure acres, two roods and thirty perches at the South-end thereof. Out of the ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Trice</hi> Gent. called <hi>Pickerells</hi> Fen, foure acres and one rood at the South-end thereof. Out of the ground of <hi>Thomas Keete,</hi> two acres, two roods and five perch<g ref="char:EOLhyphen"/>es at the North-weſt end thereof. Out of the ground of <hi>John Legerton,</hi> two acres, three roods, and thirty two perches at the North-weſt end thereof. Out of the ground of <hi>William Dring,</hi> foure acres, and ſix perches at the North-eaſt part thereof. Out of the ground of <hi>Richard Reade</hi> and <hi>William Dring,</hi> two acres, three roods and ten perches at the North-Eaſt part thereof. The entire Fen ground of <hi>Robert Vintner</hi> Gent. lying between the grounds of <hi>Besteney Bruce</hi> aforeſaid, and <hi>Richard Campe,</hi> containing eleven acres, three roods and twenty perches, Out of the ſaid ground of <hi>Thomas Campe,</hi> one acre and two roods at the Eaſt-end thereof. Out of the ground of <hi>John Tye,</hi> one acre and two roods at the Eaſt-part thereof. Out of the ground of <hi>Robert Raſh, Reynold Walſham</hi> and <hi>Thomas Curde,</hi> five acres, two roods, and fifteen perches, ſet out as aforeſaid, at the Eaſt-part of the ſame ground. Out of the ground of Widow <hi>Duke,</hi> two acres at the North-part thereof. Out of the ground of <hi>Thomas Tye,</hi> two acres, two roods and twelve perches at the North-weſt part thereof. Out of the grounds of <hi>Robert Bruce, Ro<g ref="char:EOLhyphen"/>bert</hi>
+                        <pb n="25" facs="tcp:176002:14"/> 
+                        <hi>Reade, William Dring</hi> and <hi>Robert Edges,</hi> ſeven acres and one rood ſet out, as aforeſaid, at the Eaſt-ends of the ſaid grounds. Out of the adjoyn<g ref="char:EOLhyphen"/>ing grounds of <hi>Martin Bend</hi> and <hi>Richard Cooper</hi> foure acres and one rood, ſet out, as aforeſaid, at the Eaſt-ends of the ſaid grounds. Out of the grounds of <hi>Richard Lambe, John Rea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e, Thomas Wright, Thomas Roſe,</hi> and <hi>John Reaſon,</hi> ſeven acres and ten perches ſet out, as aforeſaid, at the Eaſt-ends of the ſaid grounds. Out of the ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Caſtle</hi> Gent. lying next the ſeveral ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Wendye</hi> Eſquire in Abbots <hi>Holwood</hi> aforeſaid, nine acres, two roods and ten perches at the North-eaſt corner thereof. Out of the ground of <hi>Thomas Reade,</hi> one acre, three roods, and thirty two perches at the weſt-part thereof. One entire Fen ground of <hi>Richard Dring,</hi> lying between the laſt mentioned grounds of <hi>Thomas Reade,</hi> and the ground of <hi>Thomas Campe,</hi> abutting upon the ſaid ſeveral ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Wendye</hi> aforeſaid, containing ſeven acres, two roods and ten perches. Out of the ground of <hi>John Rutter,</hi> ſix acres, two roods and five perches at the Eaſt-ſide thereof, abutting upon the ground of <hi>Thomas Campe.</hi> And out of the ſaid ground of <hi>Thomas Campe,</hi> lying next the ſeveral Fen grounds of <hi>Sut<g ref="char:EOLhyphen"/>ton,</hi> called the Middle, eight acres and three roods, abutting upon the ſaid grounds in <hi>Sutton.</hi> 
+                        <seg>0105 1 20</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds in <hi>Chartriſſe</hi> aforeſaid, called <hi>Honey</hi>-Fen, fourty acres at the South-part of the ſame grounds, abutting upon <hi>Langwood</hi> Fen and <hi>Bial</hi> Fen. <seg>0040 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds in <hi>Chartreſſe</hi> aforeſaid, called the <hi>Reſtiges,</hi> fourty acres and twenty perches, (that is to ſay) one entire ſe<g ref="char:EOLhyphen"/>veral Fen ground of <hi>Beſteney Betts</hi> Eſquire, abutting upon <hi>Beeſelings</hi> Fen in <hi>Dodington,</hi> containing twenty ſeven acres. Out of the ground of the ſaid <hi>Beſteney Betts,</hi> called the <hi>Mile,</hi> foure acres and ſixteen perches at the North-end thereof. Out of the ground late of Sir <hi>Thomas Hed<g ref="char:EOLhyphen"/>ley</hi> Knight, two acres, two roods, and thirty foure perches at the Eaſt-end thereof. Out of the ground of <hi>William Reeve,</hi> three acres and twen<g ref="char:EOLhyphen"/>ty perches at the Eaſt-end thereof. And out of the ground of <hi>Ro<g ref="char:EOLhyphen"/>bert Peyton</hi> Eſquire, three acres and thirty perches at the Eaſt-part thereof. <seg>0040 0 20</seg>
+                     </p>
+                  </item>
+                  <label>Dodington, Wimbling<g ref="char:EOLhyphen"/>ton, March <hi>and</hi> Ben<g ref="char:EOLhyphen"/>wick.</label>
+                  <item>
+                     <p>Out of the common Fen grounds, of, or belonging to <hi>Dodington, March, Benwick</hi> and <hi>Wimblington,</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> or to ſome or one of them, ſeven thouſand ſeven hundred ninety ſeven acres, (that is to ſay) out of the common Fen called <hi>Pulver</hi> Fen, and <hi>Turfe</hi> Fen, one thouſand three hundred acres at the Eaſt-part thereof, abutting upon the Fen called <hi>Beeſelings</hi> Fen. Out of the ſaid common Fen called <hi>Beeſelings</hi> Fen, three hundred fourty foure acres at the South-end thereof, abutting upon weſt-water. Out of the com<g ref="char:EOLhyphen"/>mon Fen called <hi>Dikamoore,</hi> ſeven hundred fifty ſix acres, abutting upon the weſt-water, and the bank called <hi>Copalder</hi> bank. Out of the com<g ref="char:EOLhyphen"/>mon Fen grounds called <hi>Stoney</hi> Fen and block Fen, one thouſand and ſeven hundred acres at the Eaſt-part thereof next unto <hi>Maney.</hi> Out of the common Fen ground called <hi>Burrough Moore,</hi> five hundred acres, a<g ref="char:EOLhyphen"/>butting upon <hi>Ranſome Mo re,</hi> and the river <hi>Neane.</hi> Out of the com<g ref="char:EOLhyphen"/>mon Fen called <hi>Whitemoore,</hi> one thouſand acres at the North-weſt part thereof, abutring upon <hi>Plant-water,</hi> and the common Fens of <hi>Wiſ<g ref="char:EOLhyphen"/>bich.</hi>
+                        <pb n="26" facs="tcp:176002:15"/> Out of the common Fen called <hi>Wich</hi> Fen, two hundred acres at the South-part thereof, abutting upon <hi>Dodington Leame,</hi> and the com<g ref="char:EOLhyphen"/>mon Fen called <hi>St<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>we</hi> Fen. Out of the common fen called the Middle, two hundred acres, abutting upon <hi>Plant-water</hi> and the river <hi>Neane.</hi> Out of the common fen called great <hi>Binnie Moore,</hi> foure hundred and fifty acres at the Eaſt-part thereof, abutting upon the fen called <hi>Grayes</hi> Fen, and the lake called the old Chaire. Out of the common fen called Creek fen, foure hundred and ſixty acres at the North-eaſt part there<g ref="char:EOLhyphen"/>of, abutting North-ward upon the common fen called <hi>Ladus</hi> Fen, and upon the ſeveral fen grounds of <hi>Robert Peyton</hi> Eſquire. And out of the common fens called Horſe Moore, and little <hi>Binnie</hi> Moore, eight hundred eighty ſeven acres at the Eaſt-part thereof, abutting upon the imbanked ſeveral ground called Horſe Moore. <seg>7797 0 00</seg>
+                     </p>
+                     <p>Out of the fen called weſt-fen, lying between the river <hi>Neane, Plant-water, Sterne, Ea,</hi> or South-lake, the new Dyke made from <hi>Sterne, Ea,</hi> or South-lake aforeſaid unto Weſt-fen Cloſe, the ſaid ground called Weſt-fen Cloſe, Whoredome lake, and Witleſea Dyke, two thou<g ref="char:EOLhyphen"/>ſand foure hundred eighty three acres at the South part of the ſame ground, abutting Eaſtward upon <hi>Plant-water,</hi> and the river <hi>Neane</hi> South-ward upon Witleſea Dyke, called at that place Saddle-bowe mile, and weſtward upon Whoredome Lake, Weſt-fen Cloſe, and the new Dyke aforeſaid. <seg>2483 0 00</seg>
+                     </p>
+                     <p>Out of the imbanked ſeveral Fen ground late of <hi>Robert Peyton</hi> Eſquire, one thouſand five hundred and fifty acres, (that is to ſay) out of the ſeve<g ref="char:EOLhyphen"/>ral imbanked fen ground called <hi>Stoney</hi> fen, one thouſand three hundred twenty five acres at the Eaſt-part thereof, abutting upon the fen called Chafer fen, the fens of <hi>Maney</hi> called the dams, and the common fen called <hi>Stoney</hi> fen. And out of the imbanked ſeveral fen ground now, or late in the occupation of <hi>William Sames,</hi> Doctor of the law, called Horſe Moore, two hundred twenty five acres at the North-eaſt part thereof abutting upon the fens called <hi>Grayes</hi> fen and great <hi>Binnie</hi> Moore. <seg>1550 0 00</seg>
+                     </p>
+                     <p>Out of the other ſeveral fen grounds, of, or belonging to <hi>Dodington March, Benwick</hi> and <hi>VVimblington</hi> aforeſaid, nine hundred and nineteen acres, (that is to ſay) out of the ſeveral fen grounds, of, or belonging to <hi>Robert Peyton</hi> Eſquire, one hundred thirty three acres and twenty perches, <hi>(viz,)</hi> one entire fen, lying in <hi>Norwood</hi> ſeverals, abutting upon the ſeveral fen ground of <hi>VVilliam VVrag,</hi> containing one hun<g ref="char:EOLhyphen"/>dred and three acres. One other entire fen ground, abutting upon the bank of <hi>VValderſey,</hi> and a ſeveral ground belonging to <hi>Henry Fini<g ref="char:EOLhyphen"/>more,</hi> containing eighteen acres and three roods. And out of a ſeve<g ref="char:EOLhyphen"/>ral fen ground adjoyning to the part of <hi>VVhitemoore,</hi> called <hi>Maries Hurne,</hi> and the ſeveral fen ground of <hi>Thomas Tyrell</hi> Gent. eleven acres, one rood, and twenty perches at the South-part thereof, next <hi>VVhite-moore</hi> aforeſaid. <seg>0133 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground, of, or belonging to <hi>Robert Balam</hi> Eſquire, lying near <hi>Walderſey</hi> Banck, ſixty nine Acres, one Rood, and five Perches <hi>(viz.)</hi> one entire Fen-ground abutting upon <hi>Soapers</hi> drove and <hi>Walderſey</hi> bank, containing fourty nine Acres, and one Rood, and five Perches; and out of the ſeveral Fen-ground lying on the Eaſt ſide of <hi>Norwood</hi> Cauſey, twenty Acres at the Weſt end of the ſame ground
+<pb n="27" facs="tcp:176002:15"/> abutting upon the ſeveral Fen-ground, now, or late of Widow <hi>South-well.</hi> 
+                        <seg>0069 <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 05</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds, of, or belonging to <hi>Henry Finimoore</hi> Gent. lying in <hi>March</hi> aforeſaid, fourty two Acres, and two Roods at the North-eaſt ſide of the grounds called <hi>Otter Holts,</hi> lying near <hi>Plant-water,</hi> abutting upon <hi>Plant-water,</hi> and the ſeveral Fen-ground of <hi>Thomas Shep<g ref="char:EOLhyphen"/>heard.</hi> 
+                        <seg>0042 2 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds, of, or belonging to <hi>Thomas Tyrell</hi> Gent. fourty five Acres, one Rood, and ten Perches. <hi>(viz.)</hi> one entire ſeveral Fen-ground abutting upon <hi>Plant-water</hi> and Weſt-Fen, contain<g ref="char:EOLhyphen"/>ing thirty five Acres and two Roods. And out of his ſeveral ground lying in <hi>Norwood</hi> Severals, betwixt two ſeveral grounds of <hi>Robert Peyton</hi> aforeſaid, nine Acres, three Roods, and ten Perches at the Weſt-ſide thereof. <seg>0045 1 10</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground called the hundred Acres, lying near unto <hi>Maney,</hi> twenty five Acres at the South-end thereof, next the ſeve<g ref="char:EOLhyphen"/>rall grounds of <hi>Maney</hi> aforeſaid. <seg>0025 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground called <hi>Grayes</hi>-Fen, fourty four Acres at the North-end thereof, abutting upon great <hi>Binnie</hi>-Moore. <seg>0044 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground called <hi>Reads</hi>-Fen, thirty Acres abut<g ref="char:EOLhyphen"/>ting upon <hi>Well-Pingle</hi> and the river <hi>Neane.</hi> 
+                        <seg>0030 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds, of, or belonging to <hi>Robert Pierſon,</hi> twenty one Acres, one Rood, and thirty five Perches, <hi>(viz.)</hi> out of the ground lying near unto <hi>Hobbs</hi>-dike, eight Acres, three Roods, and ten Perches at the South end thereof, abutting upon the old Drove-way. And out of a ſeveral Fen-ground of him the ſaid <hi>Robert Pierſon,</hi> lying in the Fen called <hi>Edmunds</hi> Severals, twelve Acres, two Roods, and twenty five Perches at the Eaſt-end thereof, abutting upon the ſeveral Fenne-ground of <hi>Thomas Tyrell</hi> aforeſaid. <seg>0021 1 35</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground of <hi>VVilliam VVragge,</hi> lying near unto <hi>Grainford,</hi> nine Acres, and three Roods, and twenty eight Perches at the Eaſt-ſide thereof. <seg>0009 3 20</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds, of, or belonging to <hi>Peter VVilliams,</hi> thirty four Acres, two Roods and ten Perches <hi>(viz.)</hi> one entire ſeveral Fen-ground lying within a ſeveral Fen-ground of <hi>Robert Peyton</hi> afore<g ref="char:EOLhyphen"/>ſaid, in <hi>Norwood</hi> Severals, containing eleven Acres. And out of one other ground of him the ſaid <hi>Peter VVilliams,</hi> lying in the Fen called <hi>Norwood</hi> Severals aforeſaid, abutting upon the old Drove way, twenty three Acres two Roods, and ten Perches at the Eaſt part thereof, abut<g ref="char:EOLhyphen"/>ting upon the laſt mentioned ground of <hi>Robert Peyton</hi> aforeſaid. <seg>0034 2 10</seg>
+                     </p>
+                     <p>Out of the ſeveral fen ground of <hi>John Mobbe,</hi> abutting upon <hi>VVal<g ref="char:EOLhyphen"/>derſey</hi> bank, ten acres and three roods at the North-end thereof, next the ſaid bank. <seg>0010 3 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen grounds, of, or belonging to <hi>John Pierſon,</hi> twen<g ref="char:EOLhyphen"/>ty ſeven acres and two roods, <hi>(viz.)</hi> out of the ſeveral fen ground, ly<g ref="char:EOLhyphen"/>ing near unto great Croſſe, five acres and two roods at the North part thereof. And out of one other ſeveral fen ground, in the occupation of him the ſaid <hi>John Pierſon,</hi> abutting upon <hi>Plant-water,</hi> and the ſeveral fen ground of <hi>Henry Finnimore,</hi> twenty two acres at the weſt-ſide there<g ref="char:EOLhyphen"/>of, next the fen called weſt-fen. <seg>0027 2 00</seg>
+                     </p>
+                     <pb n="28" facs="tcp:176002:16"/>
+                     <p>Out of the ſeveral Fen ground of <hi>Thomas Shepheard</hi> Gent. abutting upon <hi>Plant-water,</hi> and the laſt mentioned ſeveral ground of <hi>Hen<g ref="char:EOLhyphen"/>ry Finimore,</hi> fifteen acres at the weſt-ſide thereof, next weſt-fen a<g ref="char:EOLhyphen"/>foreſaid. <seg>0015 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground called weſt-Fen Cloſe, twenty five acres at the Eaſt-part thereof next weſt-fen. <seg>0025 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground called great <hi>Bradney</hi> moore, abutting upon Biſhops Dyke, and the river <hi>Neane,</hi> one hundred ſixty two acres and two roods at the North-end thereof, abutting upon Witleſea Dyke. <seg>0162 2 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground called Whites Fen, one hundred and nineteen acres, and one rood at the weſt-part thereof, abutting upon <hi>Glaſſe</hi> lake and <hi>Brownes</hi> Fen. <seg>0119 1 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-ground, in the tenure or occupation of <hi>Willi<g ref="char:EOLhyphen"/>am Sames,</hi> Doctor of the Law, called <hi>Brownes</hi> fen or <hi>Cookes</hi> Fen, fifty acres and twenty perches at the North-weſt part thereof, abutting up<g ref="char:EOLhyphen"/>on <hi>Glaſſe</hi> lake aforeſaid. <seg>0050 0 03</seg>
+                     </p>
+                  </item>
+                  <label>Dodington ſmall Seve<g ref="char:EOLhyphen"/>rals.</label>
+                  <item>
+                     <p>Out of nineteen other ſmall Severals, belonging to <hi>Dodington, March,</hi> and <hi>Benwick</hi> aforeſaid, fifty three acres two roods, and thirty two perches as the ſame is already proportionally by lockſpits or ſmall trenches, divided and ſet out from every of the ſaid nineteen ſeveral fen grounds, (that is to ſay) out of the ground of Widow <hi>Cattel,</hi> lying near <hi>Grainford,</hi> one acre at the South-end thereof. Out of the ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Barret</hi> Gent. called <hi>Mundfords</hi> lands, two acres, one rood, and thirteen perches at the South-ſide thereof. Out of the ground of <hi>Thomas Walſam,</hi> called alſo <hi>Mundfords</hi> lands, three acres, two roods, and five perches at the Eaſt-part thereof, next unto the drove-way. Out of the ground of <hi>Thomas Emerſon,</hi> one acre, three roods, and fifteen perches at the South-ſide thereof. Out of the ground of <hi>John Neale,</hi> two acres, one rood, and twenty perches at the North-part thereof. Out of the ground of Widow <hi>Southwald,</hi> adjoyning unto <hi>Norwood</hi> Cauſey, five acres and twenty perches at the North-part thereof, abutting upon <hi>Walderſea</hi> bank. Out of the ground of <hi>William Shepherd,</hi> lying in the ſeveral Fen called <hi>Edmunds</hi> Severals, three acres and twenty perches at the South-end thereof. Out of the ground late of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Death</hi> Yeoman, lying in the Fen called <hi>Joane Sadds</hi> hole two acres, one rood, and ſix perches at the Eaſt-part thereof. Out of the ground of <hi>John Shereman,</hi> lying near <hi>Burrough</hi> moore, ſix acres, three roods and fifteen perches at the Eaſt-end thereof. Out of the ground of <hi>Everard Buck<g ref="char:EOLhyphen"/>worth</hi> Eſquire, lying near <hi>Nuſes</hi> green, three acres, one rood, and eight perches at the weſt-ſide thereof. Out of the ground of <hi>Thomas South-wold,</hi> abutting upon <hi>Norwood</hi> green, two roods at the South-corner thereof. Out of the ſeveral ground of <hi>Thomas Walſame,</hi> lying near <hi>Norwood</hi> green aforeſaid, three acres, three roods and ten perches at the Eaſt-ſide thereof. Out of the ground of <hi>Reynold VValſame,</hi> lying near <hi>Norwood</hi> green aforeſaid, two acres, three roods and eight perches at the weſt-part thereof, next unto the Common. Out of the ground called <hi>VViſamouth,</hi> foure acres, three roods, and thirty eight perches, at the North-weſt end thereof, abutting upon the river <hi>Neane.</hi> Out of a ground near <hi>Benwick,</hi> called <hi>Pagdole,</hi> two acres, three roods, and
+<pb n="29" facs="tcp:176002:16"/> twenty foure perches, at the North-weſt end thereof. Out of the ground of <hi>William Smith</hi> in <hi>Dikemoore,</hi> abutting upon <hi>Beeſelings</hi> load, and the weſt-water foure acres at the Eaſt-end thereof. Out of the ground of <hi>Samuel Wright,</hi> Doctor of Divinity, lying in <hi>Dikemoore</hi> a<g ref="char:EOLhyphen"/>foreſaid, three roods and ten perches at the North-eaſt end thereof. Out of the ground of Widow <hi>Cole,</hi> lying near <hi>Benwick</hi> meere, one acre at the North-end thereof, next weſt-water. And out of the ground of <hi>Robert Burroughes,</hi> lying near <hi>Benwick,</hi> one acre and twenty perches at the North-eaſt ſide thereof, abutting upon the river <hi>Neane</hi> 
+                        <seg>0053 2 32</seg>
+                     </p>
+                  </item>
+                  <label>Witleſey.</label>
+                  <item>
+                     <p>Out of the common Fen grounds, of, or belonging to <hi>Witleſey,</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> five thouſand five hun<g ref="char:EOLhyphen"/>dred twenty ſeven acres, (that is to ſay) the entire common Fen called North-Fen, containing one thouſand ſeventy eight acres, abutting weſt<g ref="char:EOLhyphen"/>ward upon the Mowe Fens of <hi>VVitleſey,</hi> called <hi>Northey,</hi> Northward up<g ref="char:EOLhyphen"/>on the ſeveral Fen grounds called <hi>Priors</hi> Fens, Eaſtward upon <hi>Delfe</hi>-Dyke, and Southward upon <hi>Mortons Leame.</hi> The entire common Fen, lying between the new drain, or way extending from <hi>Witleſey</hi> to the hard lands of <hi>Upwood, Witleſey</hi> Dyke, and the new cut or drain cal<g ref="char:EOLhyphen"/>led <hi>Bevels Leame,</hi> containing two thouſand ſeventy eight acres, abutting weſtward upon the ſaid new drain, or way Northward upon <hi>Witleſey</hi> Dyke, and South-eaſtward upon the ſaid new drain called <hi>Bevels Leame.</hi> The entire common Fen called South-<hi>Pingle,</hi> containing fif<g ref="char:EOLhyphen"/>ty nine acres, abutting weſtward upon the hard lands of <hi>Lipney</hi> North-ward upon the Cauſey leading unto <hi>Eldernel,</hi> and the ſeveral grounds of <hi>Eldernel,</hi> and South-eaſtward upon <hi>Eaſtrea</hi> Lake or South-lake. The entire common Fen called the Middle, containing ſeven hundred thirty foure acres, abutting weſtward upon the ſeveral grounds of <hi>Eldernel,</hi> and upon Lords Dyke, Southward upon South-lake, or <hi>Sterne Ea,</hi> Eaſtward upon the Dyke, extending from <hi>Mortons Leame,</hi> near mid Fen tree, unto South-lake or <hi>Sterne Ea</hi> aforeſaid, and Northward upon <hi>Mortons Leame</hi> aforeſaid. Out of the common Fen grounds lying near unto <hi>Eſtrea</hi> called <hi>Eaſtrea</hi> Fen, or the <hi>VVipe,</hi> nine hundred thirty and two acres, abutting weſtward upon <hi>Beggers</hi> Dyke, Southward upon the new drain called <hi>Bevels Leame,</hi> Eaſtward upon the new Dyke, ex<g ref="char:EOLhyphen"/>tending from Weſt-fen Cloſe unto South-lake or <hi>Sterne Ea,</hi> and North-ward upon South-lake or <hi>Sterne Ea</hi> aforeſaid. And out of the common fen ground called the <hi>Moore,</hi> ſix hundred fourty ſix acres at the North-weſt part thereof, abutting weſtward upon <hi>Steds</hi> Dyke, and Northward upon the ſaid new drain called <hi>Bevels Leame.</hi> 
+                        <seg>
+                           <gap reason="illegible" resp="#MURP" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </seg>
+                     </p>
+                  </item>
+                  <label>Witleſey Severals.</label>
+                  <item>
+                     <p>Out of the ſeveral Fen grounds, of, or belonging to <hi>VVitleſey</hi> afore<g ref="char:EOLhyphen"/>ſaid, called <hi>Priors</hi> Fens, one hundred eighty nine acres as the ſame is already divided and incloſed from the reſidue of the ſaid Fens (that is to ſay) out of the ground of <hi>Richard Auldfield,</hi> fifty acres at the South-eaſt part thereof. Out of the ground of Widow <hi>Pennie,</hi> two acres, one rood, and twenty eight perches at the South-part thereof. Out of the grounds of <hi>Henry Prat</hi> Gent. adjoyning to the grounds of <hi>Richard Auldfield</hi> aforeſaid, called <hi>Aſhe</hi> Fen, fourty ſeven acres, three roods, and twenty perches at the South-weſt end thereof, abutting upon North Fen. Out of the grounds of <hi>John Elkin</hi> Gent. fourty foure acres, three
+<pb n="30" facs="tcp:176002:17"/> roods, and two perches at the South-eaſt part of the ſame grounds. Out of the ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Darſon</hi> Gent. three acres, one rood, and fifteen perches at the weſt-end thereof. Out of the ground of <seg>0189 0 00</seg>
+                     </p>
+                     <p>
+                        <hi>Summer</hi> Gent. three acres, one rood and fifteen perches at the Eaſt-end thereof. Out of the ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Armeſted</hi> Gent. eleven acres, three roods, and thirty perches at the weſt-end thereof. Out of one other ground of the ſaid <hi>Henry Prat</hi> called <hi>Cawcroft,</hi> nineteen acres, three roods, and thirty five perches at the South-weſt corner thereof. And out of the ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Roſe</hi> Gent. five acres, one rood, and fifteen perches at the South-eaſt corner thereof. <seg>0189 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Stanground</label>
+                  <item>
+                     <p> Out of the ſeveral Fen-grounds, of, or belonging to <hi>Stanground</hi> in the County of <hi>Hunt,</hi> called <hi>Flegge</hi>-Fen, and <hi>White</hi>-Fen Cloſe lying in the ſaid Iſle of <hi>Ely</hi> and County of <hi>Cambridge,</hi> one hundred twenty ſeven Acres, abutting Northward upon <hi>Mortons Leame,</hi> and Eaſtward, and Southward upon the ſeveral grounds of <hi>Witleſey.</hi> 
+                        <seg>0127 0 00</seg>
+                     </p>
+                     <p>Out of the mowing Fen-ground belonging to <hi>Stanground</hi> aforeſaid, called <hi>Northea,</hi> lying in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> ſixty four Acres, as the ſame is already divided, and incloſed at the South-eaſt part of the ſame ground. <seg>0064 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Thorney.</label>
+                  <item>
+                     <p> Out of the Demeane Fen-grounds, of, or belonging to the Lordſhip of <hi>Thorney,</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> four thou<g ref="char:EOLhyphen"/>ſand Acres abutting Eaſtward upon the Common-Fen of <hi>Wisbich,</hi> cal<g ref="char:EOLhyphen"/>led high Fenne, and the Common Fen-grounds of <hi>Sutton</hi> in <hi>Holland,</hi> Southward upon the Fen-grounds of <hi>Witleſey,</hi> called <hi>Baſſen</hi>-hall-moore and Northward upon the South <hi>Ea</hi> bank. <seg>4000 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Sutton in Holland.</label>
+                  <item>
+                     <p> Out of the Common Fen-grounds, of, or belonging to <hi>Sutton</hi> in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> in the County of <hi>Lincolne,</hi> lying in the ſaid Iſle of <hi>Ely,</hi> and Coun<g ref="char:EOLhyphen"/>ty of <hi>Cambridge,</hi> four hundred and fourty Acres, abutting Eaſtward up<g ref="char:EOLhyphen"/>on the common Fen of <hi>VVisbich,</hi> Southward upon the lake called the <hi>Wride,</hi> and weſtward upon the Fen ground of <hi>Thorney,</hi> called <hi>Knarre</hi> Fen. <seg>0440 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Wiſbich.</label>
+                  <item>
+                     <p> Out of the common fen grounds, of, or belonging to <hi>Wisbich,</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> two thouſand ſix hun<g ref="char:EOLhyphen"/>dred fourty eight acres, (that is to ſay) one entire fen ground, lying near <hi>Guy</hi> Hurne, between <hi>Mortons Leame,</hi> the new drain called <hi>Bevels Leame, Sterne ea</hi> or South-lake, and the common fens in <hi>Witleſea,</hi> cal<g ref="char:EOLhyphen"/>ted the middle, containing foure hundred ninety one acres and two roods. One other entire fen ground, lying between <hi>Mortons Leame</hi> aforeſaid, the fen grounds of <hi>Witleſea,</hi> called <hi>Baſſen</hi> hall Moore, and the drain called the five and twenty foot-drain, conteining foure hundred twenty foure acres, and two roods. And one other entire fen ground conteining one thouſand ſeven hundred thirty two acres, lying between the ſaid five and twenty foot draine, <hi>Knarre</hi> lake, and the drain or way leading from <hi>Pekirke</hi> meddow unto <hi>Guy</hi> Hurne. <seg>2648 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground, belonging to <hi>Wisbich</hi> aforeſaid, cal<g ref="char:EOLhyphen"/>led <hi>Throcken Holt,</hi> foureſcore acres at the weſt-end of the ſame ground, abutting Northward upon South-<hi>Ea</hi> bank. <seg>0080 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Elme.</label>
+                  <item>
+                     <p> Out of the common Fen ground, of, or belonging to <hi>Elme</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> lying between <hi>Coldham</hi> bank, and Elme Leame, fifty acres at the South-weſt part thereof, abutting
+<pb n="31" facs="tcp:176002:17"/> 
+                        <hi>Elme Leame,</hi> and a ſeveral fen ground of <hi>Robert Peyton</hi> Eſquire, called great Sedge Fen. <seg>
+                           <gap reason="illegible" resp="#MURP" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground in <hi>Elme</hi> aforeſaid, belonging unto the Biſhop of <hi>Ely,</hi> lying between <hi>Elme Leame,</hi> and the old <hi>Ea,</hi> thirty acres, abutting upon the South-eaſt end of the common Fen ground of <hi>Elme</hi> aforeſaid, and the ſaid ſeveral ground of <hi>Robert Peyton</hi> afore<g ref="char:EOLhyphen"/>ſaid. <seg>0030 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen ground of <hi>Robert Peyton</hi> aforeſaid, called great Sedge Fen, adjoyning unto <hi>Elme</hi> Common aforeſaid, one hundred and ſeventy acres, abutting upon <hi>Coldham</hi> bank, the ſaid ground of the Lord Biſhop of <hi>Ely,</hi> and the ſaid common Fen of <hi>Elme.</hi> 
+                        <seg>0170 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Ladus Fen.</label>
+                  <item>
+                     <p> Out of the common Fen ground called <hi>Ladus</hi> Fen, and Lake Fen, lying within the hundred of <hi>Wisbich,</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> ſix hundred and foureſcore acres at the South-weſt end thereof, abutting upon part of the common Fen of <hi>Doding<g ref="char:EOLhyphen"/>ton</hi> and <hi>March,</hi> called Creek Fen, lying between <hi>Elme Leame,</hi> and the river <hi>Neane.</hi> 
+                        <seg>0680 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Eauſie-Moor.</label>
+                  <item>
+                     <p> Out of the common Fen ground called <hi>Eauſy</hi> Moore, lying within the ſaid hundred of <hi>Wisbich</hi> in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> bounded with the river <hi>Neane, Wellney</hi> river, <hi>Darcie</hi> Load, and the Lake called the old Chaire, one thouſand nine hundred ſixty foure acres at the North-weſt part thereof abutting upon the ſaid Lake called the old Chaire, the river <hi>Neane,</hi> and the Dyke called the new Dyke. <seg>1964 0 00</seg>
+                     </p>
+                     <p>Out of the common Fen ground, called <hi>Tucks Moore Hurne,</hi> or <hi>Well-Pingle,</hi> lying within the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> be<g ref="char:EOLhyphen"/>tween the ſaid Lake called the old Chaire, and <hi>Reads</hi> Fen in <hi>March,</hi> thirty ſix acres, abutting upon the old Chaire aforeſaid, and upon the river <hi>Neane.</hi> 
+                        <seg>0036 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Upwell, Outwel and Wellney.</label>
+                  <item>
+                     <p> Out of the common Fen grounds, of, or belonging to <hi>Upwell, Out<g ref="char:EOLhyphen"/>well</hi> and <hi>Wellney</hi> in the County of <hi>Norfolk,</hi> and in the ſaid Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> or ſome or one of them, one thouſand five hundred and fourty acres, (that is to ſay) out of the common Fen grounds called <hi>Neat Moore,</hi> and the lots, ſeven hundred and fifty acres at the Eaſt-end of the ſame ground, next unto Well Creek, abutting Southward upon the Fens called <hi>Londoners</hi> Fens, Northward upon <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Load, the Fen ground in the occupation of <hi>Triſtram Diamond</hi> Gent. and the common Fen called <hi>Outwell Pingle.</hi> Out of the common Fen grounds called <hi>Shevens,</hi> two hundred acres at the Eaſt-ſide thereof, abutting upon Cauſey Dyke, and Hacket way. Out of the common Fen grounds called Common piece and Hale Fen, five hundred and nine<g ref="char:EOLhyphen"/>ty acres, <hi>(viz.)</hi> the ſaid entire fen called the Common piece. And the reſidue being foure hundred fifty ſix acres, out of the ſaid common Fen cailed Hale Fen, at the North-eaſt part thereof, abutting upon <hi>Bedford</hi> river, and the ſeveral ground belonging unto <hi>Wellney</hi> Chappel, called Sedge Fen. <seg>1540 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen grounds called <hi>Londoners</hi> Fens, being late parcel of the common fens of <hi>Upwell</hi> and <hi>Wellney</hi> aforeſaid, 800 acres, as the ſame is already ſet out, and by lockſpits or ſmall trenches ſevered and divided from the reſidue of the ſaid fens, in manner and forme following, (that is to ſay,) one entire fen ground belonging to Sir <hi>Robert Bell</hi> Knight,
+<pb n="32" facs="tcp:176002:18"/> called <hi>Lilly-pooles,</hi> containing five acres. One other entire fen ground, belonging to the ſaid Sir <hi>Robert Bell,</hi> lying between <hi>Lilly-pooles</hi> afore<g ref="char:EOLhyphen"/>ſaid, the fen ground called <hi>Cades</hi> fen, the ſeveral fen grounds belonging to <hi>Wellney</hi> Chappel, called <hi>Knobbals,</hi> and the ſeveral fen ground of <hi>Thomas Fincham</hi> Gent. containing eighty eight acres, and three roods. Out of one other ground of him the ſaid Sir <hi>Robert Bell,</hi> lying between <hi>Cadys</hi> fen and <hi>London</hi> load aforeſaid, fourty two acres and three roods at the weſt-end thereof. Out of the ſeveral fen ground now, or late of Sir <hi>Lewis Treſham</hi> Knight, lying between <hi>Cadys</hi> fen and <hi>Wick</hi> fen, nine<g ref="char:EOLhyphen"/>ty three acres and one rood at the South-end thereof, abutting upon the ſeveral fen ground, late of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Fincham</hi> Gent. in the occupation of him the ſaid Sir <hi>Lewis Treſham.</hi> Out of the ſeveral fen ground, late in the tenure or occupation of Sir <hi>William Cokayne</hi> Knight, adjoyning unto <hi>Cadys</hi> fen aforeſaid, and the ſeveral grounds now, or late of Sir <hi>John Wats</hi> Knight, one hundred ſeventy one acres at the South-part thereof, abutting upon the ground of <hi>Thomas Parlet.</hi> Out of the ſeveral grounds now, or late of Sir <hi>John Wats</hi> Knight, three hundred fifty two acres and one rood, abutting upon Maid load, the forementioned ground, late of Sir <hi>VVilliam Cokayne,</hi> and the drove-way leading through the middle of the ſaid grounds of him the ſaid Sir <hi>John Wats.</hi> Out of the ſeveral fen ground of <hi>Thomas Fincham</hi> Gent. lying between <hi>Cadys</hi> fen and <hi>Wick</hi> fen, eleven acres and three roods, abutting on both ſides of <hi>Bedford</hi> river. Out of the ſeveral fen ground, late of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Fincham</hi> Gent. now in the occupation of the ſaid Sir <hi>Lewis Treſham,</hi> thirteen acres and one rood at the weſt-ſide thereof, abutting upon <hi>Cadis</hi> Fen. Out of the ſeveral Fen ground now, or late of <hi>Ha<g ref="char:EOLhyphen"/>man le Strange</hi> Eſquire, abutting upon <hi>Cadis</hi> Fen and Maid Load, twelve acres at the Eaſt-ſide thereof, next <hi>Bedford</hi> river. And out of the ſeveral Fen ground called Hen-middle, abutting upon Maid Load, on the North-ſide of <hi>Bedford</hi> river, ten acres, adjoyning to the Fen grounds now, or late of Sir <hi>John Wats</hi> aforeſaid, and upon the ſeveral grounds of <hi>Thomas Parlet</hi> Yeoman. <seg>0800 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen grounds belonging to the Chappel of <hi>Wellney,</hi> one hundred ſeventy eight acres, as the ſame is already ſet out, and by lockſpits or ſmall trenches ſevered and divided from the reſidue of the ſaid Fens, in manner and forme following, (that is to ſay) out of the Fen ground called <hi>Knobbals,</hi> twenty eight acres. <hi>(viz.)</hi> one entire piece thereof, lying on the North-ſide of <hi>Bedford</hi> river, containing nine acres. Out of the ground late in the occupation of <hi>Edward Lechland</hi> Eſquire, or his Aſſignes, lying on the South-ſide of <hi>Bedford</hi> river, ten acres, a<g ref="char:EOLhyphen"/>butting upon the ſaid river. And out of the reſidue of the ſaid ground called <hi>Knobbals,</hi> nine acres at the Eaſt-end thereof, abutting upon <hi>Wick</hi> Fen and <hi>Reads</hi> Fen. Out of the ſeveral fen ground called Sedge Fen, one hundred and fifty acres, <hi>(viz.)</hi> one entire piece thereof lying on the North-ſide of <hi>Bedford</hi> river, containing eleven acres. And out of the reſidue of the ſaid Fen one hundred thirty nine acres at the South-weſt part thereof, abutting upon Hale fen and <hi>Bedford</hi> river aforeſaid. <seg>0178 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds belonging to <hi>Outwell</hi> aforeſaid, lying between <hi>Popham Eau,</hi> and new dyke, 65 acres, as the ſame is already pro<g ref="char:EOLhyphen"/>portionally
+<pb n="33" facs="tcp:176002:18"/> ſet out, and by lockſpits or ſmall trenches ſevered and di<g ref="char:EOLhyphen"/>vided from every of the ſaid three ſeveral fen grounds, in manner and forme following, (that is to ſay) out of the ſeveral fen ground, be<g ref="char:EOLhyphen"/>longing to the Deane and Chapter of <hi>Norwich,</hi> thirty five acres at the Eaſt-end thereof, abutting upon <hi>Neat-Moore</hi> and <hi>Popham Eau</hi> aforeſaid. Out of the grounds of <hi>Triſtram Diamond</hi> Gent. twenty five acres at the South-eaſt part thereof, abutting upon <hi>Neat-Moore</hi> aforeſaid. And out of the ground of <hi>Sinolphus Bell</hi> Eſquire, five acres at the Eaſt-end thereof, abutting upon the ſaid grounds of the ſaid <hi>Triſtram Dia<g ref="char:EOLhyphen"/>mond</hi> Gent. <seg>0065 0 00</seg>
+                     </p>
+                     <p>Out of three ſeveral fen grounds lying in <hi>Ladus</hi> Fen, fifty two acres and two roods, as the ſame is already proportionally ſet out, and by lockſpits or ſmall trenches ſevered and divided from every of the ſaid three fen grounds in manner and forme followieg, (that is to ſay) Out of the ground called <hi>Langbeech,</hi> on the South-weſt ſide of Biſhops Dyke, ſeven acres and two roods at the Eaſt-end thereof. Out of the ground called <hi>Marmond,</hi> twenty ſeven acres and one rood at the South-part thereof. And out of the ground now, or late of Sir <hi>William Reade</hi> Knight, lying near <hi>Newes</hi> Cote, ſeventeen acres and three roods at the North end thereof. <seg>0052 2 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen ground called Farmers fen, fourty eight acres at the Eaſt-ſide thereof, abutting upon the common fen, called <hi>Eauſie Moore.</hi> 
+                        <seg>0048 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen ground called <hi>Loveokes,</hi> twenty one acres at the North-end thereof, abutting upon the fen called the common piece. <seg>0021 0 00</seg>
+                     </p>
+                     <p>Out of nineteen ſeveral fen grounds, belonging to <hi>Upwell</hi> and <hi>Wellney</hi> aforeſaid, or to one of them lying on the weſt-ſide of <hi>Wellney</hi> river, be<g ref="char:EOLhyphen"/>tween <hi>Pophams Eau,</hi> and <hi>Darcie</hi> Load, two hundred fifty two acres, and thirteen perches, as the ſame is already proportionally ſet out, and by lockſpits or ſmall trenches ſevered and divided from every of the ſaid nineteen ſeveral fen grounds, in manner and forme following, (that is to ſay) out of the imbanked ſeveral fen ground of <hi>John Moyſe</hi> Gent. one hundred and five acres, and thirty ſix perches at the South-weſt part thereof, abutting upon <hi>Eauſe</hi> Moore. Out of the imbanked ground now or late of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Taylor</hi> Gent, fourty ſix acres, two roods and twenty perches at the South-part thereof. Out of the ground now, or late of <hi>William Bellamie,</hi> two acres and two roods at the South-part thereof. Out of the next adjoyning ground now, or late of <hi>John Bellamie,</hi> two acres, one rood and twenty perches at the weſt-part thereof, Out of the ground now, or late of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Fiske</hi> Gent. called <hi>Rollingham,</hi> fifteen acres, two roods, and twenty two perches at the weſt-part thereof. Out of the ground now, or late of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Calverley,</hi> Doctor of Divinity, eight acres, three roods, and ten perches at the South-corner thereof. Out of the ground called Town-land, abutting upon the ſeveral ground of <hi>William Drue,</hi> one acre and thirty foure perches at the North-end thereof. Out of the ſaid ground of <hi>William Drue,</hi> two acres and two roods at the North-end thereof. One entire fen ground of <hi>John Dixon</hi> Gent. abutting upon <hi>Maggs</hi> Lake, conteining ſix acres, rwo roods, and thirty ſix perches. Out of the ground now, or late of <hi>Edmund Man,</hi>
+                        <pb n="34" facs="tcp:176002:19"/> abutting upon <hi>Maggs</hi> lake aforeſaid, one acre and twenty perches at the North-weſt corner thereof, One entire ground now, or late of <hi>Thomas Blithe,</hi> adjoyning to the ſaid ground of <hi>Edmund Man,</hi> containing five acres, three roods, and thirty ſix perches. One other entire fen ground now, or late of <hi>John Bellamie</hi> and <hi>Matthew Bellamie,</hi> abutting upon <hi>Fri<g ref="char:EOLhyphen"/>day</hi> lake, containing foure acres and two roods. One other entire fen ground now, or late of Sir <hi>William Reade</hi> aforeſaid, abutting alſo up<g ref="char:EOLhyphen"/>on <hi>Friday</hi> lake containing ſeven acres and ten perches. Out of the next adjoyning ground now, or late of <hi>Haman le Strange</hi> Eſquire, nine acres, one rood and twenty two perches at the Eaſt-part thereof. One entire fen ground now, or late of <hi>Thomas Fincham,</hi> adjoyning to the laſt mentioned ground of <hi>Haman le Strange</hi> aforeſaid, containing thirteen acres and two roods. Out of the next adjoyning ground now, or late of <hi>Roger Prat</hi> Eſquire, ſeven acres and two roods at the South-part thereof. Out of the ground now, or late of <hi>John Gray,</hi> one acre, two roods and twenty five perches, at the North-part thereof. Out of the ground now, or late of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Reve</hi> Cler. three roods and twelve perches at the South-weſt part thereof. And out of the ground of <hi>Tho<g ref="char:EOLhyphen"/>mas Croſſe,</hi> abutting upon the North-ſide of <hi>Darcie</hi> load, eight acres, three roods and thirty perches at the weſt-end thereof. <seg>0252 0 13</seg>
+                     </p>
+                     <p>Out of fifteen other ſeveral Fen-grounds, of, or belonging to <hi>Upwell</hi> and <hi>Welney,</hi> lying alſo on the Weſt-ſide of <hi>VVelney</hi> River aforeſaid, be<g ref="char:EOLhyphen"/>tween <hi>Darcie</hi> Load aforeſaid, and the ſeveral grounds of <hi>Little-port,</hi> ly<g ref="char:EOLhyphen"/>ing upon the ſame River, ſeventy three Acres, one Rood, and twenty Perches, as the ſame is already proportionally ſet out, and by lockſpits or ſmall trenches ſevered and divided from every of the ſaid fifteen ſe<g ref="char:EOLhyphen"/>verall Fen-grounds in manner and forme following, (that is to ſay) out of the ground of <hi>Thomas Croſſe,</hi> abutting upon the South ſide of <hi>Dar<g ref="char:EOLhyphen"/>cie</hi> Load, eleven Acres, three Roods, and ten Perches at the Weſt-end thereof. Out of the next adjoyning ground of <hi>Robert Webſter,</hi> two Acres, one Rood, and twenty eight Perches at the South corner thereof. Out of the ſeveral Fen-ground called <hi>Lewis</hi> Meadow, ſeven Acres, and twelve Perches at the South-weſt end thereof. Out of the next ad<g ref="char:EOLhyphen"/>joyning ground, now or late of <hi>Simon Hudſon,</hi> eight Acres, three Roods and thirty eight Perches at the South-part thereof. Out of the next adjoyning ground, now or late of <hi>John Stanbridge,</hi> five Acres, one Rood, and thirty Perches at the Eaſt-ſide thereof. Out of the next adjoyning ground, now or late of <hi>Robert Goulden,</hi> three Acres, one Rood, and eighteen Perches at the Eaſt corner thereof. Out of the ground of <hi>Everard Buckworth</hi> Eſquire, eight Acres at the Weſt part thereof. Out of the next adjoyning ground late of <hi>VVilliam Bond,</hi> one Acre, three Roods, and ten Perches at the South corner thereof. Out of the next adjoyning ground, now or late of <hi>Thomas Birt,</hi> four Acres, two Roods and ſix Perches at the Weſt corner thereof. Out of the ground, now, or late of <hi>Edward Bond,</hi> one Acre, two Roods, and ten Perches at the South-weſt end thereof. Out of the next adjoyning ground, now or late of <hi>Francis VVaters</hi> Gent. five Acres, one Rood, and eighteen Perch<g ref="char:EOLhyphen"/>es, at the South-weſt part thereof. Out of the ground now or late of <hi>Rich<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rd James</hi> lying near <hi>VVellney,</hi> two Acres, three Roods, and thirty two Perches at the North-weſt corner thereof. Out of the ground now
+<pb n="35" facs="tcp:176002:19"/> or late of <hi>VVilliam Gabie</hi> and <hi>John Gabie,</hi> lying on the South ſide of <hi>Bedford</hi> river, one Acre, and two Roods at the Weſt-end thereof. Out of the ground belonging to the Deanary of <hi>Peterborough,</hi> abutting up<g ref="char:EOLhyphen"/>on <hi>Marmond</hi> Meadow, three Acres, two Roods and eight Perches at the Weſt part thereof. And out of the ſaid ground called <hi>Marmond</hi> meadow, five Acres at the North-weſt part thereof. <seg>0037 1 20</seg>
+                     </p>
+                     <p>Out of twenty three ſeveral Fen-grounds belonging to <hi>Upwell</hi> and <hi>VVellney</hi> aforeſaid, or to the one of them lying on the Eaſt ſide of <hi>VVellney</hi> river, between <hi>Pophams Eau</hi> and the ſeveral Fen-grounds be<g ref="char:EOLhyphen"/>longing to <hi>Little-port,</hi> one hundred and fifty Acres, and ſeven Perches, as the ſame is already proportionally ſet out, and by lockſpits or ſmall trenches ſevered and divided from every of the ſaid twenty three ſeveral Fen-grounds in manner and forme following, (that is to ſay) out of the ground now or late of Sir <hi>John VVats</hi> Knight lying near <hi>Popham Eau</hi> aforeſaid, ten Acres, one Rood, and twenty ſix Perches at the Eaſt part thereof. Out of the ground of <hi>Henry Gouldwell</hi> adjoyning unto the Common Fen called <hi>Sheuens,</hi> extending unto the ſaid River of <hi>VVellney,</hi> one Acre, and twelve Perches at the Eaſt corner thereof. Out of the ground, now or late of Sir <hi>Robert Bell</hi> Knight, abutting upon <hi>VVellney</hi> River and the ground belonging to the Deane and Chapter of <hi>Norwich,</hi> eight Acres, and one Rood, and thirty Perches at the North-eaſt part thereof. Out of the ground now or late of <hi>VVilliam Drue,</hi> abutting al<g ref="char:EOLhyphen"/>ſo upon the ſaid ground of the Deane and Chapter of <hi>Norwich,</hi> fourteen Acres, one Rood, and twenty Perches at the Eaſt-end thereof. Out of the ground of <hi>Haman Le Strange</hi> Eſquire, called great <hi>Greenes,</hi> twenty ſix Acres, three Roods and ten Perches at the South part thereof. Out of the next adjoyning ground, now or late of <hi>John Bellamie</hi> and <hi>Matthew Bellamie,</hi> four Acres, three Roods and thirty eight Perches at the Eaſt end thereof. Out of the next adjoyning ground of <hi>John Goddard,</hi> one Acre and two Roods at the North ſide thereof. Out of the ground, now or late of <hi>VVilliam Gabie,</hi> three Acres, three Roods, and ten Perches at the North-eaſt part thereof. Out of the next adjoyning ground, now or late of <hi>Triſtram Diamond</hi> Gent. three Acres, one Rood, and thirty Perches at the Eaſt corner thereof. Out of the ground, now or late of <hi>Edmund Man,</hi> adjoyning unto the ground now or late of <hi>John Dixon,</hi> two Acres, two Roods, and twenty eight Perches at the South-eaſt cor<g ref="char:EOLhyphen"/>ner thereof. One entire Fen-ground, now or late of <hi>John Dixon</hi> a<g ref="char:EOLhyphen"/>foreſaid, bounded with the Common Fen called <hi>Sheuens,</hi> and the River of <hi>Wellney,</hi> containing ſeven Acres, and two Roods. Out of one other ground, now or late of him the ſaid <hi>John Dixon,</hi> abutting upon the afore<g ref="char:EOLhyphen"/>ſaid ground of <hi>Edmund Man,</hi> eight Acres and two Roods at the North-ſide thereof. Out of the ground, now or late of <hi>William Parlet</hi> Gent. abutting upon the ground of the Deane and Chapter of <hi>Norwich,</hi> lying near <hi>Darcie</hi> Load, four Acres, two Roods, and ten Perches at the South-ſide thereof. One entire ſeveral Fen-ground belonging to the Deane and Chapter of <hi>Norwich,</hi> lying near <hi>Dar<gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>e</hi> Load aforeſaid, containing thirteen Acres, and thirty Perches. Out of the ground, now or late of <hi>John Bloome,</hi> abutting upon the ground of <hi>John Marſhall</hi> Gent. two A<g ref="char:EOLhyphen"/>cres, three Roods, and thirty three Perches at the South-eaſt ſide thereof. Out of the ſaid ground, now or late of <hi>John Marſhall</hi> aforeſaid, ten Acres,
+<pb n="36" facs="tcp:176002:20"/> three Roods, and ten Perches at the North end thereof. Out of the ground, now or late of <hi>Thomas Croſſe,</hi> abutting upon <hi>Cauſey</hi> dike, four Acres, two Roods, and ten Perches at the Weſt-end thereof. Out of the ground, now, or late of Sir <hi>William Reade</hi> aforeſaid, abutting up<g ref="char:EOLhyphen"/>on <hi>Cauſey</hi> Dyke near <hi>Wellney,</hi> three roods and ten perches at the North-end thereof. Out of the ground now, or late of Sir <hi>John Wats</hi> Knight, abutting upon Maid load, three acres at the Eaſt-part thereof. Out of the ground now, or late of <hi>John Stanbridge,</hi> lying near <hi>Wellney,</hi> one acre at the Eaſt-part thereof. Out of the ground now, or late of <hi>James Ravens,</hi> one acre at the North-eaſt part thereof, abutting upon <hi>Bed<g ref="char:EOLhyphen"/>ford</hi> river. Out of the ground now, or late of <hi>Francis Waters,</hi> lying on the South-ſide of <hi>Bedford</hi> river, abutting upon <hi>Hale</hi> Fen, and <hi>Wellney</hi> river, eleven acres and two roods at the South-eaſt end thereof. And out of the ground now, or late of <hi>Richard Ward,</hi> lying near <hi>Pralls</hi> were three acres and twenty perches at the North-ſide thereof. <seg>0155 0 00</seg>
+                     </p>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>COM. H<g ref="char:V">Ʋ</g>NTINGDON.</head>
+               <list>
+                  <label>Somerſham.</label>
+                  <item>
+                     <p> OUt of the common Fen grounds, of, or belonging to the <hi>Soake</hi> of <hi>Somerſham,</hi> in the ſaid County of <hi>Huntingdon,</hi> one thouſand ſix hundred and five acres, <hi>(viz.)</hi> out of the common Fen, called <hi>Erith</hi> Fen, two acres adjoyning to <hi>Bedford</hi> river, on the South-ſide of the ſame river, near to <hi>Erith</hi> ſluce. Out of the Mowe Fen, called <hi>Croll</hi> load, ſeventy acres at the weſt-part thereof, abutting upon High Fen. And out of the ſaid common Fens called High Fen and North Fen, one thouſand five hundred thirty three acres, abutting upon the ſaid Fen called <hi>Croll</hi> load, and adjoyning Southward upon the low Fen of <hi>Somerſham</hi> and the hard lands. And Northward upon the common Fens of <hi>Warbois</hi> and <hi>Fenton</hi> load. <seg>1605 0 00</seg>
+                     </p>
+                     <p>Out of a ſeveral Fen ground in <hi>Somerſham,</hi> called <hi>Rowey,</hi> eleven acres at the North-part thereof. <seg>0011 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Warbois.</label>
+                  <item>
+                     <p> Out of the common Fen grounds of <hi>VVarbois</hi> or <hi>Ramſey,</hi> in the County of <hi>Huntingdon,</hi> lying between the weſt-water from St. <hi>Bennets</hi> Croſſe unto <hi>Fenton</hi> load, and along the ſaid load unto the hard lands of <hi>Warbois,</hi> and by a ſtraight line, extrnded from <hi>Wiſtowe</hi> ſtone in the Fen, unto St. <hi>Bennets</hi> Croſſe aforeſaid, one thouſand eight hundred ſixty eight acres at the North-weſt part of the ſame ground. on both ſides of the new drain, extending from the hard lands of <hi>Warbois,</hi> unto the weſt-water, abutting upon the ſaid weſt-water. The Commons of <hi>Ramſey</hi> called <hi>Eaſt-moore,</hi> and the common Fen called <hi>Wiſtow</hi> Fen. <seg>1868 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Wiſtowe.</label>
+                  <item>
+                     <p> Out of the common Fen-grounds called <hi>Wiſtowe</hi> Fen, in the ſaid County of <hi>Huntingdon,</hi> belonging to <hi>Ramſey, Wiſtow</hi> and <hi>Berry,</hi> or to ſome or one of them, and bounded with the ſaid common Fens of <hi>Warbois</hi> or <hi>Ramſey,</hi> the hard lands of <hi>Wiſtowe</hi> and <hi>Berry,</hi> the Mowe Fenne of <hi>Berry,</hi> and the lake called <hi>Sallaries</hi> Raft, three hundred eighty ſix acres at the North-eaſt part of the ſaid Fen, abutting upon the ſaid common Fen of <hi>Warbois</hi> or <hi>Ramſey,</hi> and the ſaid lake called <hi>Sallaries</hi> Raft. <seg>0386 0 00</seg>
+                     </p>
+                     <pb n="37" facs="tcp:176002:20"/>
+                     <p>Out of the common fen ground belonging to <hi>Berry</hi> in the ſaid Coun<g ref="char:EOLhyphen"/>ty of <hi>Huntingdon,</hi> called <hi>Berry</hi> Mowe Fen, fourty five acres at the South-part of the ſaid Fen. <seg>0045 0 00</seg>
+                     </p>
+                  </item>
+                  <label>R<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſey.</label>
+                  <item>
+                     <p> Out of the common Fen grounds, of, or belonging to <hi>Warbois</hi> or <hi>Ramſey</hi> in the ſaid County of <hi>Huntingdon,</hi> or to the one of them called <hi>East-moore,</hi> bounded with the ſaid lake called <hi>Sallaries</hi> Raft, the fore-mentioned line extended from <hi>Wiſtowe</hi> Stone, in the fen unto St. <hi>Bennets</hi> Croſſe, the common Fens of <hi>Dodington</hi> and <hi>Benwick,</hi> called <hi>Pulver</hi> fen and <hi>Turfe</hi> fen, <hi>Ramſey Meere,</hi> and the incloſed grounds of Sir <hi>Oliver Cromwel</hi> Knight of the Honourable Order of the Bath, one thouſand foure hundred ninety and ſix acres. Out of the South-eaſt part of the ſaid Fen, or both ſides of the ſaid new drain, extending from the hard lands of <hi>Warbois</hi> unto the weſt-water, and adjoyning upon <hi>Pulver</hi> Fen and <hi>Sallaries</hi> Raft aforeſaid. <seg>1496 0 00</seg>
+                     </p>
+                     <p>Out of one other common Fen ground of <hi>Ramſey</hi> aforeſaid, called Middle-Moore, one thouſand, eight hundred, ſeventy and five acres, abutting weſtward upon the new drain, or way leading from the hard lands of <hi>Upwood</hi> unto <hi>Witleſey,</hi> South-ward upon the river <hi>Neane,</hi> and North-eaſtward upon <hi>Delfe</hi> Dyke, and the ſeveral grounds called the <hi>Steds.</hi> 
+                        <seg>1875 0 00</seg>
+                     </p>
+                     <p>Out of one other Fen ground, of, or belonging to <hi>Ramſey, Upwood,</hi> and <hi>Raveley,</hi> or to ſome or one of them, lying near unto <hi>Raveley</hi> in the ſaid County of <hi>Huntingdon,</hi> two hundred twenty nine acres, abutting upon the hard lands of <hi>Raveley,</hi> near unto a place called <hi>Raveleyes</hi> nook, and upon the Fen grounds claimed as parcel of the Mannor of <hi>Wood-walton.</hi> 
+                        <seg>0229 0 00</seg>
+                     </p>
+                     <p>Out of one other common Fen ground, of, or belonging unto <hi>Ram<g ref="char:EOLhyphen"/>ſey</hi> or <hi>Upwood,</hi> in the ſaid County of <hi>Huntingdon,</hi> or to the one of them, lying between the hard lands of <hi>Upwood,</hi> and the river <hi>Neane,</hi> eight bun<g ref="char:EOLhyphen"/>dred fifty ſix acres, abutting weſtward upon the drain, or way leading from the hard lands of <hi>Upwood,</hi> unto <hi>Witleſea</hi> aforeſaid, Northward up<g ref="char:EOLhyphen"/>on the river <hi>Neane,</hi> and Eaſtward and Southward upon <hi>Bill</hi> load, and the hard land of <hi>Upwood</hi> aforeſaid. <seg>0856 0 00</seg>
+                     </p>
+                     <p>Out of one other common Fen ground, of, or belonging to <hi>Ramſey</hi> aforeſaid, lying between <hi>Ramſey Meere</hi> and <hi>Delfe</hi> Dyke, one hundred and eight acres, abutting upon <hi>Delfe</hi> Dyke, and the river <hi>Neane.</hi> 
+                        <seg>0108 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds of Sir <hi>Oliver Cromwell</hi> Knight of the honourable order of the Bathe, lying and ſcituate in <hi>Ramſey</hi> aforeſaid, called <hi>Abbots Pingle, Wigin Moore, Ramſey Park</hi> and <hi>Asbech,</hi> one hun<g ref="char:EOLhyphen"/>dred ſeventy ſeven acres, <hi>(viz.)</hi> the ſaid entire Fen ground called <hi>Ab<g ref="char:EOLhyphen"/>bots Pingle,</hi> containing eighty acres, the ſaid entire Fen ground called <hi>Aſhbeech,</hi> containing ſeventy ſix acres, and the reſidue being twenty one acres. Out of the ſaid Fen ground called <hi>Wigin Moore,</hi> at the South-eaſt part thereof, abutting upon <hi>Abbots Pingle</hi> aforeſaid. <seg>0177 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Severals of Ramſey.</label>
+                  <item>
+                     <p>Out of the other ſeveral fen grounds, of, or belonging to <hi>Ramſey</hi> a<g ref="char:EOLhyphen"/>foreſaid, in the ſaid County of <hi>Huntingdon,</hi> one hundred fifty five acres, (that is to ſay,) out of the Fen ground called Upper <hi>Steds,</hi> five acres, two roods and twenty perches at the North-eaſt end thereof. Out of the ſeveral Fen grounds called Nether <hi>Steds,</hi> eighteen acres and one rood at the North-weſt end thereof. Out of the ſeveral Fen ground
+<pb n="38" facs="tcp:176002:21"/> now or late of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Beale</hi> Gent. lying near <hi>Witleſey</hi> Meere, three Acres, one Rood, and ten Perches at the North-eaſt part of the ſame ground. Out of the ſeveral Fen-grounds of <hi>Thomas Cromwell</hi> Gent. called <hi>Dantree</hi> and <hi>Bagdole,</hi> thirty three Acres, one Rood, and ten Perch<g ref="char:EOLhyphen"/>es at the North-eaſt end of the ſaid ground called <hi>Bagdole.</hi> Out of the ſeveral Fen-ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Houſon,</hi> called alſo <hi>Bagdole,</hi> twelve A<g ref="char:EOLhyphen"/>cres and two Roods at the South-weſt part thereof, abutting upon <hi>Witle<g ref="char:EOLhyphen"/>ſey</hi> Meere. Out of a ſeveral Fen-ground belonging to Sir <hi>Oliver Crom<g ref="char:EOLhyphen"/>well</hi> aforeſaid, lying on the South-ſide of <hi>Ugg</hi> Meere, ſix Acres at the South-weſt part of the ſame ground. Out of the ſeveral Fen-grounds called <hi>Beaupre</hi> Cloſes, eight Acres and one Rood, abutting upon <hi>Delfe</hi>-dike and the River <hi>Neane.</hi> Out of the ſeveral Fen-grounds called great <hi>Hilkes,</hi> twenty eight Acres and one Rood at the Eaſt part thereof, abut<g ref="char:EOLhyphen"/>ting upon <hi>Ramſey</hi> Meere and the river <hi>Neane.</hi> Out of the ſeveral Fen-grounds called little <hi>Hilkes,</hi> two Acres and two Roods at the <seg>0073 1 20</seg>
+                     </p>
+                     <p>part thereof, next unto the mouth of <hi>Ramſey</hi> Meere. Out of the ſeve<g ref="char:EOLhyphen"/>rall Fen-ground called <hi>Pollins,</hi> two Acres, and two Roods at the Eaſt part thereof. Out of the greater Cloſe called <hi>Bears-arſe,</hi> lying near <hi>Hilkes</hi> on the North ſide of the river <hi>Neane,</hi> two Acres, three roods, and ten Perches at the North-eaſt end of the ſaid ground. Out of the leſſer ground called alſo <hi>Beares-arſe,</hi> one Acre and twenty Perches at the South-weſt-ſide thereof. Out of the ſeverall Fen-grounds adjoyning upon the hard lands of <hi>Wiſtowe,</hi> or <hi>Warbois</hi> called Vicars Cloſes, ſixe Acres and ten Perches at the Weſt part of the ſaid Cloſes. Out of the ſeveral Fen-ground, now or late of <hi>Anne Netleton,</hi> lying near <hi>Ram<g ref="char:EOLhyphen"/>ſey</hi> Town, one Acre at the South part thereof. Out of the ſeveral Fen-ground now or late of <hi>Thomas Cock,</hi> one acre and three roods at the North end thereof. Out of the ſeveral Fen-ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Crock<g ref="char:EOLhyphen"/>ſton,</hi> one acre and one rood at the North end thereof. Out of the ſe<g ref="char:EOLhyphen"/>veral fen ground now, or late of <hi>John Bateman,</hi> two acres, and twenty eight perches at the North-end of the ſame ground. Out of the ſeve<g ref="char:EOLhyphen"/>ral Fen ground now, or late of <hi>John Lavender,</hi> one acre one rood, and foure perches at the North-part thereof. Out of the ſeveral fen ground now, or late of <hi>John Leeders,</hi> one acre, two roods and foure perches at the North part thereof. Out of the ſeveral Fen ground of <hi>Thomas Wil<g ref="char:EOLhyphen"/>liamſon,</hi> two acres, two roods, and twenty eight perches at the North-end thereof. Out of the ſeveral Fen grounds of Widow <hi>Holmes,</hi> two acres, two roods and ſixteen perches at the South-end of the greater ground belonging unto her, abutting upon the load. Out of the ſe<g ref="char:EOLhyphen"/>veral Fen ground ot <hi>Thomas Barnes,</hi> two acres and ten perches at the Eaſt-part thereof. Out of the ſeveral Fen ground of <hi>John Knight,</hi> three acres, three roods, and thirty perches at the weſt-part thereof, abutting upon the ground of <hi>William Cakebread.</hi> Out of the ſeveral Fen ground of <hi>Richard Allen,</hi> lying near High <hi>Northey,</hi> two roods at the North-ſide thereof. Out of the ſeveral fen ground of <hi>Robert Booth,</hi> two roods at the South-ſide thereof. Out of the ſeveral Fen ground of <hi>Thomas Howſon,</hi> one acre at the North-end thereof. Out of the ſe<g ref="char:EOLhyphen"/>veral Fen ground of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Farmer</hi> Gent. three roods at the Eaſt-ſide thereof. And out of the ſeveral Fen ground, lying on the Eaſt-part of
+<pb n="39" facs="tcp:176002:21"/> 
+                        <hi>Stocking</hi>-Fen, in the occupation of <hi>Ralph Allen,</hi> one Acre and two Roods on the North ſide of the ſame ground. <seg>0155 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Wood-walton.</label>
+                  <item>
+                     <p> Out of the common Fen-grounds, of, or belonging to <hi>VVood-walton</hi> in the ſaid County of <hi>Huntingdon,</hi> nine hundred thirty ſeven Acres (that is to ſay) three hundred ninety three Acres out of the North end of the ſame ground, abutting upon the ſeveral Fen-grounds of <hi>Hignie</hi> Farme and <hi>Brick</hi>-Meere, claimed by <hi>John Marſhall</hi> Gent. And the reſidue being five hundred fourty and four Acres out of the North part of the ſaid Fen, abutting upon <hi>Ugg</hi>-Meere and the common Fen-grounds of <hi>Ramſey</hi> and <hi>Upwood,</hi> late in the poſſeſſion of and claimed by <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Law<g ref="char:EOLhyphen"/>rence</hi> Gent. <seg>0937 0 00</seg>
+                     </p>
+                     <p>Out of the two ſeveral Fen-grounds of the ſaid <hi>John Marſhall</hi> lying in <hi>Wood-walton</hi> aforeſaid, next unto the Fen and hard lands of <hi>Santrey,</hi> thirty ſix Acres at the North end of the ſaid grounds, abutting upon <hi>Santrey</hi> Fen and the hard lands of <hi>Hignie</hi> Farme. <seg>0036 0 00</seg>
+                     </p>
+                     <p>Out of the one other Fen-ground in <hi>VVood-walton</hi> aforeſaid, lying between the hard lands of <hi>VVood-walton</hi> and <hi>Hignie</hi> Farme and the ſaid Fen of <hi>VVood-walton,</hi> claimed as Several by the ſaid <hi>Iohn Marſhall,</hi> fif<g ref="char:EOLhyphen"/>teen Acres, abutting upon the hard lands of <hi>Wood-walton</hi> at the South-eaſt part of the ſaid ground. <seg>0015 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Hignie.</label>
+                  <item>
+                     <p> Out of the ſeveral Fen-grounds, of, or belonging to <hi>Hignie</hi> Farme in the ſaid County of <hi>Huntingdon,</hi> one hundred Acres at the North-end of the ſaid grounds, abutting upon the ſeveral Fen-grounds of <hi>Conington,</hi> and upon the common fen grounds of <hi>Holme</hi> and <hi>Wood-walton</hi> aforeſaid. <seg>0100 0 00</seg>
+                     </p>
+                     <p>Out of the common Fen grounds, of, or belonging to <hi>Santrey,</hi> in the ſaid County of <hi>Huntingdon,</hi> two hundred and ſix acres at the South-eaſt part of the ſame Fen, abutting upon the ſeveral fen grounds of <hi>Santrey</hi> and <hi>Woodwalton</hi> aforeſaid, and upon the hard lands of <hi>Santrey.</hi> 
+                        <seg>0206 0 00</seg>
+                     </p>
+                     <p>Out of two ſeveral Fen grounds in <hi>Santrey</hi> aforeſaid, lying near un<g ref="char:EOLhyphen"/>to <hi>Woodwalton</hi> aforeſaid, nineteen acres at the North-eaſt part of the greater of the ſaid ſeveral fen grounds, abutting Eaſtward upon the ſe<g ref="char:EOLhyphen"/>veral Fen grounds of <hi>John Marſhall</hi> aforeſaid. <seg>0019 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Conington.</label>
+                  <item>
+                     <p> Out of the ſeveral Fen grounds of <hi>Conington</hi> in the ſaid County of <hi>Hun<g ref="char:EOLhyphen"/>tingdon,</hi> two hundred eighty and one acres, abutting South-ward up<g ref="char:EOLhyphen"/>on the common Fen grounds of <hi>Santrey</hi> aforeſaid, Eaſtward upon the Fen grounds of <hi>Higney</hi> Farme, and Northward upon the common Fen called <hi>Holme</hi> Fen. <seg>0281 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Holme and Glatton,</label>
+                  <item>
+                     <p> Out of the common Fen grounds, of, or belonging to <hi>Holme</hi> and <hi>Glatton</hi> in the ſaid County of <hi>Huntingdon,</hi> one thouſand and twelve acres abutting Eaſtward upon the river <hi>Neane,</hi> and <hi>Ugg Meere,</hi> Southward up<g ref="char:EOLhyphen"/>on <hi>Brick Meere,</hi> and the ſaid ſeveral Fen grounds of <hi>Higney</hi> Farme and <hi>Conington,</hi> and weſtward upon the hard lands. <seg>1012 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Denton.</label>
+                  <item>
+                     <p> Out of the common fen grounds, of, or belonging to <hi>Denton</hi> in the ſaid County of <hi>Huntingdon,</hi> one hundred fifty ſix acres at the South-eaſt part of the ſaid Fen, abutting upon <hi>Holme</hi> load, and the hard lands of <hi>Holme.</hi> 
+                        <seg>0156 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Caldecott.</label>
+                  <item>
+                     <p> Out of the ſeveral Fen grounds, of, or belonging to <hi>Caldecott</hi> in the ſaid County of <hi>Huntingdon,</hi> fifty ſix acres, (that is to ſay) out of the Moſſe Fen, belonging to the Right Honourable <hi>Edward</hi> Lord <hi>Monta<g ref="char:EOLhyphen"/>cute,</hi>
+                        <pb n="40" facs="tcp:176002:22"/> eighteen acres at the South-weſt part of the ſame ground, abutting upon the ground called the <hi>Turfe</hi> lots. Out of the ſaid ground called the <hi>Turfe</hi> lots, foure acres, three roods, and twenty perches, at the North-end of the ſame ground, abutting upon <hi>Caldecot</hi> Dyke. Out of the ground called the Mowing lots, eight acres and three roods at the weſt-end of the ſame ground. Out of one other ſeveral Fen ground of the ſaid Lord <hi>Montacute,</hi> fourteen acres, one rood, and three perches, abut<g ref="char:EOLhyphen"/>ting upon part of the aforeſaid Mowing lots, and upon <hi>Denton</hi> Fen. Out of three ſeveral Fen grounds now, or late in the occupation of <hi>Thomas Hall,</hi> three acres, three roods, and twenty five perches at the North-part of the ſame grounds. Out of five ſeveral Fen grounds, in the tenure or occupation of Sir <hi>Thomas Cotton</hi> Baronet, <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Williamſon</hi> Gent. <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Fuller</hi> Gent. <hi>Thomas Hall</hi> aforeſaid, and <hi>William Aſhton,</hi> lying between the aforeſaid Fen ground of the ſaid Lord <hi>Montacute, Denton</hi> Fen, and the drove-way leading to the ſame grounds, foure Acres at the Weſt-ends of the ſaid five ſeveral Grounds. Out of five other ſeveral Fen-grounds, of, or belonging unto the ſaid Sir <hi>Thomas Cotton,</hi> the ſaid <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Williamſon</hi> Gent. the ſaid <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Fuller</hi> Gent. the ſaid <hi>Thomas Hall</hi> and <hi>William Aſhton,</hi> lying between the a<g ref="char:EOLhyphen"/>fore mentioned Drove-way, and the hard lands, two Acres and two Perches at the Faſt part of the ſame ground. <seg>0056 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Stilton.</label>
+                  <item>
+                     <p> Out of the common Fen-grounds, of, or belonging to <hi>Stilton</hi> in the ſaid County of <hi>Huntingdon,</hi> one hundred and ſixty Acres, abutting up<g ref="char:EOLhyphen"/>on <hi>Caldecott</hi> dike, the Turfe Fen of <hi>Stilton,</hi> and the Common and Seve<g ref="char:EOLhyphen"/>rall Fens of <hi>Yaxley.</hi> 
+                        <seg>0160 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Yaxley.</label>
+                  <item>
+                     <p> Out of the common Fen-grounds, of, or belonging to <hi>Yaxley</hi> in the ſaid County of <hi>Huntingdon,</hi> ſix hundred, thirty and two Acres at the North-eaſt part of the ſame Fens, abutting upon <hi>Pigge-water, VVitleſey</hi> Meere, and <hi>Trundle</hi> Meere. <seg>0632 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen-grounds of <hi>Yaxley</hi> aforeſaid, twenty nine A<g ref="char:EOLhyphen"/>cres, (that is to ſay) out of the <hi>Mowe</hi>-Fen called Weſterne Meadow, eight Acres and two Roods at the North-eaſt ſide of the ſame ground, abut<g ref="char:EOLhyphen"/>ting upon the River <hi>Neane.</hi> Out of a Holt belonging to <hi>Thomas Gen<g ref="char:EOLhyphen"/>till,</hi> lying near the town of <hi>Yaxley,</hi> three roods and five perches at the South-end of the ſaid <hi>Holt.</hi> Out of a <hi>Holt</hi> belonging to <hi>John Iſop,</hi> one rood and five perches at the South-end of the ſame <hi>Holt.</hi> Out of the <hi>Holt</hi> belonging to Widow <hi>Pierſon,</hi> one rood at the South-end of the ſaid <hi>Holt.</hi> Out of the <hi>Holt</hi> belonging to <hi>Pinchbeck Pierſon,</hi> one rood and twenty perches at the South-end of the ſame <hi>Holt.</hi> Out of the ſeveral Fen ground of <hi>Bartholomew Brown,</hi> abutting upon <hi>Witleſea Meer,</hi> one acre and one rood at the part of the ſaid ground next <hi>Trundle Meere.</hi> Out of the ſeveral Fen ground of <hi>Thomas Wats,</hi> lying near <hi>Yaxley</hi> town, five perches at the South-weſt part of the ſame ground. Out of the ſeveral Fen ground of <hi>Emmanuel Probie</hi> Gent. lying near <hi>Yaxley</hi> town, one rood and thirty perches at the South-weſt part of the ſaidt ground. Out of two ſeveral Fe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> grounds, belonging to the ſaid <hi>Pinch<g ref="char:EOLhyphen"/>beck Pie ſon,</hi> lying near <hi>Yaxley</hi> town, two acres and twenty five perches at the South-eaſt end thereof. Out of the ſeveral Fen ground of <hi>George Hopkins,</hi> two roods and twenty perches at the South-weſt part of the ſame ground. Out of the ſeveral fen ground, belonging to the ſaid
+<pb n="41" facs="tcp:176002:22"/> 
+                        <hi>Emmanuel Probie,</hi> abutting upon <hi>Stilton</hi> Fen, eight acres and two roods at the North-eaſt end of the ſame ground. Out of a ſeveral Fen ground, lying between <hi>Witleſey Meere</hi> and <hi>Trundle Meere,</hi> three acres and three roods at the Eaſt-part thereof. Out of another fen ground, lying alſo between <hi>Witleſey Meere</hi> and <hi>Trundle Meere,</hi> one acre and one rood at the Baſt-part thereof. And out of the ſeveral Fen ground, lying at the end of Conqueſt load by <hi>Witleſey Meere,</hi> three roods, abut<g ref="char:EOLhyphen"/>ting upon <hi>Witleſey Meere</hi> aforeſaid. <seg>0029 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Faſſet.</label>
+                  <item>
+                     <p> Out of the common Fen grounds, of, or belonging to <hi>Faſſet</hi> in the ſaid County of <hi>Huntingdon,</hi> nine hundred and fourty acres, abutting Eaſtward upon the Fen called <hi>Middle-moore</hi> in <hi>Ramſey,</hi> and Southward upon <hi>Witleſey Meere.</hi> And upon two ſeveral Fen grounds, belonging to <hi>Faſſet</hi> aforeſaid, adjoyning to the ſaid <hi>Meere.</hi> 
+                        <seg>0940 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds of <hi>Faſſet</hi> aforeſaid, one hundred ſixty and two acres, being two entire fen grounds, abutting upon the aforeſaid common fen grounds of <hi>Faſſet</hi> aforeſaid, and upon <hi>Witleſey Meere.</hi> 
+                        <seg>0162 0 00</seg>
+                     </p>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>COM. NORTHAMPTON.</head>
+               <list>
+                  <label>Peterbo<g ref="char:EOLhyphen"/>rough.</label>
+                  <item>
+                     <p> OUt of the common fen ground, of, or belonging to the <hi>Soake</hi> of <hi>Pe<g ref="char:EOLhyphen"/>terborough,</hi> in the ſaid County of <hi>Northampton,</hi> called <hi>Burrough</hi> great fen, two thouſand ſix hundred twenty and two acres, abutting Eaſt-ward upon part of the ſaid common fen, lying near <hi>Einſhed</hi> Croſſe, and the grounds of ſingle ſole Farme, Southward upon the drain or way leading from <hi>Peakirk</hi> meddow to <hi>Guy Hurne</hi> Northward, on the new bank of the river <hi>Welland,</hi> and upon the common fen ground, called the foure hundred acres. <seg>2622 0 00</seg>
+                     </p>
+                     <p>Out of the common fen grounds, of, or belonging to <hi>Peterborough,</hi> or <hi>Crowland,</hi> or to the one of them, called the foure hundred acres or <hi>Alder Holt,</hi> lying in the County of <hi>Lincolne,</hi> two hundred and ninety acres at the weſt-end thereof, abutting upon the ſaid fen called <hi>Burrough</hi> great fen, and the common fens of <hi>Crowland.</hi> 
+                        <seg>0290 0 00</seg>
+                     </p>
+                     <p>Out of one other common fen ground, of, or belonging to <hi>Peter<g ref="char:EOLhyphen"/>borough</hi> aforeſaid, in the ſaid County of <hi>Northampton,</hi> called <hi>Borough</hi> little Fen, eighty eight acres at the Eaſt-part thereof, abutting upon <hi>Muſcot</hi> water, and <hi>Oxney</hi> load. <seg>0088 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen grounds, of, or belonging unto ſingle ſole Farme in the ſaid County of <hi>Northampton,</hi> fourty five acres, abutting Eaſtward upon <hi>Catwater,</hi> Southward upon the ſeveral fen grounds of <hi>Northam</hi> Farme, and weſtward upon <hi>Peterborough</hi> great fen. <seg>0045 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen grounds, of, or belonging to the ſaid <hi>Northam</hi> Farme, in the ſaid County of <hi>Northampton,</hi> eighty acres, (that is to ſay,) fourty acres in one parcel, adjoyning Eaſtward upon <hi>Catwater,</hi> Northward upon the ſaid ſeveral Fen grounds of ſingle ſole Farme a<g ref="char:EOLhyphen"/>foreſaid. And the reſidue being four acres, out of the ſeveral Fen called <hi>Cranmoore,</hi> out of the South-eaſt part thereof, abutting upon the Fen called the <hi>Harpe,</hi> and upon the hard lands of <hi>Eye.</hi> 
+                        <seg>0080 0 00</seg>
+                     </p>
+                  </item>
+                  <label>Eye.</label>
+                  <item>
+                     <p> Out of the Fen called the mowing Fen grounds, of, or belonging to <hi>Eye,</hi> in the ſaid County of <hi>Northampton,</hi> fifteen acres, three roods,
+<pb n="42" facs="tcp:176002:23"/> and thirty perches, out of the ſaid mowe fen, called ſmall acre furlong, and <hi>Chillham</hi> tree furlong, (that is to ſay) out of the ground called ſmall acre furlong, twelve acres, one rood, and thirty perches at the Eaſt-ſide of the ſame ground, abutting upon <hi>Catwater,</hi> and the reſidue being three acres and two roods, out of the ſaid ground called <hi>Chillam</hi> tree furlong, at the North-ſide thereof, abutting upon the ſeveral ground of <hi>Northam</hi> Farme called the Reaches. <seg>0015 3 30</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds of <hi>Richard Darbie,</hi> lying between the ſaid grounds called <hi>Chillam</hi> tree furlong, and ſmall acre furlong, one acre and ten perches, abutting upon <hi>Catwater.</hi> 
+                        <seg>000<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 0 <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds, of, or belonging to <hi>Ta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>holt</hi> 
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>arme in the ſaid County of <hi>Northampton,</hi> thirty acres and three roods, being one entire Fen, called <hi>Newthred,</hi> abutting upon <hi>Catwater.</hi> 
+                        <seg>00<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</seg>
+                     </p>
+                     <p>Out of the ſeveral Fen grounds<g ref="char:punc">▪</g> of, or belonging to <hi>Oxney</hi> 
+                        <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>me, in the ſaid County of <hi>Northampton,</hi> twenty ſix acres, abutting North-ward upon the old Engine, and the hardlands of <hi>Eyberry,</hi> and the Fen grounds of <hi>Tanholt</hi> Farme aforeſaid, and South-eaſtward upon <hi>Catwater,</hi> the bank near <hi>Burrough</hi> little Fen, and the other grounds of the ſame Farme. <seg>0026 0 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen grounds, of, or belonging to the Right Ho<g ref="char:EOLhyphen"/>nourable <hi>Francis</hi> Earle of <hi>Bedford,</hi> lying in <hi>Eyberry,</hi> in the ſaid Coun<g ref="char:EOLhyphen"/>ty of <hi>Northampton,</hi> eleven acres out of the ground called <hi>Alder</hi> fen, a<g ref="char:EOLhyphen"/>butting upon high <hi>Edgerley</hi> Common. <seg>0011 0 00</seg>
+                     </p>
+                     <p>Out of the lot fen ground, belonging to <hi>Eye</hi> aforeſaid, called the <hi>Harp,</hi> foure acres and two roods at the Eaſt-end of the ſame, abutting upon the hard lands of <hi>Eye</hi> aforeſaid. <seg>0004 2 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen grounds of <hi>John Troughton,</hi> lying in <hi>Newwark Edgerley,</hi> three roods at the Eaſt-part of the ſame ground. <seg>0000 3 00</seg>
+                     </p>
+                     <p>Out of the ſeveral fen ground of Widow <hi>Bucher,</hi> and the Heires of <hi>Giles Burrough,</hi> five acres, in two parcels lying together in the fens, cal<g ref="char:EOLhyphen"/>led the <hi>Holts,</hi> abutting upon <hi>Peterborough</hi> great fen. <seg>0005 0 00</seg>
+                     </p>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>COM. LINCOLNE.</head>
+               <list>
+                  <label>Crowland.</label>
+                  <item>
+                     <p> OUt of the common fen grounds, of, or belonging to <hi>Crowland</hi> in the ſaid County of <hi>Lincolne</hi> fens, foure hundred acres at the Eaſt part of the ſame fens, abutting Eaſtward upon St. <hi>Guthlakes</hi> Croſſe and <hi>Catwater,</hi> Southward upon the common fen called the foure hundred acres, or <hi>Alderholt,</hi> and Northward upon the fen grounds of <hi>Crowland</hi> aforeſaid, called <hi>Porſand</hi> fen. <seg>0400 0 00</seg>
+                     </p>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176002:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
